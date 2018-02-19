@@ -1,0 +1,74 @@
+\documentclass[12pt]{article}
+
+\usepackage{sbc-template}
+
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage[bf,sf,footnotesize,indent,justification=centering]{caption}
+\usepackage[caption=true,font=footnotesize]{subfig}
+
+\usepackage{xcolor}
+\definecolor{lightblue}{RGB}{0,191,255}
+\usepackage[textsize=tiny,backgroundcolor=lightblue,linecolor=lightblue]{todonotes}
+
+\captionsetup[subfigure]{justification=centering,labelfont={bf,sf},textfont={bf,sf,footnotesize},singlelinecheck=off,justification=centering}
+\captionsetup[figure]{justification=centering,labelfont={bf,sf},textfont={bf,sf,footnotesize},singlelinecheck=off}
+\captionsetup[table]{justification=centering,labelfont={bf,sf},textfont={bf,sf,footnotesize},singlelinecheck=off,justification=centering}
+
+\sloppy
+
+\title{Título Trabalho de Conclusão de Curso I}
+
+\author{Giovana de Lucca, Elloá B. Guedes}
+
+
+\address{Núcleo de Computação\\ Escola Superior de Tecnologia\\Universidade do Estado do Amazonas (UEA)\\
+  Manaus -- AM -- Brasil
+  \email{gol.eng@uea.edu.br, ebgcosta@uea.edu.br}
+ }
+
+\begin{document}
+
+\maketitle
+
+\section{Introdução}
+\input{./files/introducao}
+
+\subsection{Objetivos}
+\input{./files/objetivos}
+
+\subsection{Justificativa} \label{sec:jutificativa}
+\input{./files/justificativa}
+
+\subsection{Metodologia} \label{sec:metodologia}
+\input{./files/metodologia}
+
+\subsection{Cronograma} \label{sec:cronograma}
+\input{./files/cronograma}
+
+\section{Fundamentação Teórica} \label{sec:fundamentacao}
+\input{./files/fundamentacao}
+
+\section{Trabalhos Relacionados} \label{sec:relacionados}
+\input{./files/relacionados}
+
+\section{Solução Proposta} \label{sec:solucao}
+\input{./files/solucao}
+
+\subsection{Visão Geral da solução proposta} \label{sec:visaogeral}
+\input{./files/visaogeral}
+
+\subsection{Análise Comparativa} \label{sec:analise}
+\input{./files/analise}
+
+\section{Considerações Parciais} \label{sec:consideracoes}
+\input{./files/consideracoes}
+
+
+\bibliographystyle{sbc}
+\bibliography{sbc-template}
+
+\end{document}
