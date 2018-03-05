@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  4 MAR 2018 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  5 MAR 2018 09:51
 entering extended mode
 **./main.tex
 (main.tex
@@ -974,25 +974,35 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
 
 (files/introducao.tex) (files/objetivos.tex) (files/justificativa.tex)
 (files/metodologia.tex) (files/cronograma.tex) (files/fundamentacao.tex
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 11.
+Underfull \hbox (badness 1168) in paragraph at lines 2--3
+\OT1/ptm/m/n/12 Es-tas re-des uti-li-zam m[]etodos ma-tem[]aticos que per-mi-te
+m o apren-di-zado de sis-te-
+ []
 
+[1
+
+{C:/Users/giovanadelucca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 3386) in paragraph at lines 10--11
+[]\OT1/ptm/m/n/12 As RNAs t[]em sido uti-li-za-das para aplica[][]oes em di-ver
+-sas []areas como
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+\OT1/ptm/m/n/12 Ge-o-gra-fia [[]], Bi-o-lo-gia [[]], Comunica[][]ao
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 13.
 ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
- [1
-
-{C:/Users/giovanadelucca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 25.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 27.
 )
 (files/relacionados.tex) (files/solucao.tex) (files/visaogeral.tex)
-(files/analise.tex) (files/consideracoes.tex) (main.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-)
+(files/analise.tex) (files/consideracoes.tex) (main.bbl [2])
 
 Package caption Warning: Unused \captionsetup[subfigure] on input line 17.
 See the caption package documentation for explanation.
@@ -1005,15 +1015,15 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 19.
 See the caption package documentation for explanation.
 
-[2] (main.aux) ) 
+[3] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 14953 strings out of 493303
- 290225 string characters out of 3135805
- 344584 words of memory out of 3000000
- 18151 multiletter control sequences out of 15000+200000
+ 14969 strings out of 493303
+ 290434 string characters out of 3135805
+ 344846 words of memory out of 3000000
+ 18167 multiletter control sequences out of 15000+200000
  18188 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,56p,726b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,10n,56p,776b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/giovanadelucca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 }<C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
 :/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
@@ -1022,9 +1032,9 @@ iovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/giovanadelu
 cca/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/giovanadelucca/MiKTe
 X 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (2 pages, 79970 bytes).
+Output written on main.pdf (3 pages, 87328 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
