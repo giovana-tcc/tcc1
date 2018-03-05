@@ -1,5 +1,6 @@
 \begin{thebibliography}{}
 
+<<<<<<< Updated upstream
 \bibitem[Aguni et~al. 2016]{ref5:aguni}
 Aguni, C., Kawahira, A., and Cordeiro, D. (2016).
 \newblock Analise de desempenho e paralelização de algoritmos para redes
@@ -64,4 +65,6 @@ Soares, D. and Teive, R. (2015).
 \newblock Previsão de cheias do rio itajaí-açu utilizando redes neurais
   artificiais.
 
+=======
+>>>>>>> Stashed changes
 \end{thebibliography}
