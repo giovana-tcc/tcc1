@@ -1,65 +1,65 @@
-<<<<<<< Updated upstream
-This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
-The style file: sbc.bst
-Database file #1: sbc-template.bib
-Warning--empty journal in ref5:aguni
-Warning--empty journal in ref12:balieiro
-Warning--empty journal in ref8:filho
-Warning--empty journal in ref3:lima
-Warning--empty journal in ref4:prego
-Warning--empty journal in ref9:nobrega
-Warning--empty journal in ref7:duarte
-Warning--empty journal in ref1:guedes
-Warning--empty journal in ref6:castro
-Warning--empty journal in ref11:teive
-(There were 10 warnings)
-=======
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: main.aux
-The style file: sbc.bst
-I found no \citation commands---while reading file main.aux
-Database file #1: sbc-template.bib
-You've used 0 entries,
-            1935 wiz_defined-function locations,
-            471 strings with 3668 characters,
-and the built_in function-call counts, 17 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
-int.to.chr$ -- 1
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: sbc-template.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 11 entries,
+            6714 wiz_defined-function locations,
+            1247 strings with 11211 characters,
+and the built_in function-call counts, 9039 in all, are:
+= -- 738
+> -- 406
+< -- 2
++ -- 200
+- -- 120
+* -- 656
+:= -- 1286
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 134
+chr.to.int$ -- 14
+cite$ -- 10
+duplicate$ -- 381
+empty$ -- 590
+format.name$ -- 585
+if$ -- 2117
+int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+missing$ -- 193
+newline$ -- 54
+num.names$ -- 50
+pop$ -- 308
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 50
 quote$ -- 0
-skip$ -- 1
-stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+skip$ -- 506
+stack$ -- 1
+substring$ -- 238
+swap$ -- 145
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 1
 warning$ -- 0
-while$ -- 0
+while$ -- 63
 width$ -- 0
-write$ -- 2
-(There was 1 error message)
->>>>>>> Stashed changes
+write$ -- 145

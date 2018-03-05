@@ -1,70 +1,67 @@
-\begin{thebibliography}{}
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
 
-<<<<<<< Updated upstream
-\bibitem[Aguni et~al. 2016]{ref5:aguni}
-Aguni, C., Kawahira, A., and Cordeiro, D. (2016).
-\newblock Analise de desempenho e paralelização de algoritmos para redes
-  neurais profundas.
+\bibitem[Aguni, Kawahira e Cordeiro 2016]{ref5:aguni}
+\abntrefinfo{Aguni, Kawahira e Cordeiro}{AGUNI; KAWAHIRA; CORDEIRO}{2016}
+{AGUNI, C.; KAWAHIRA, A.; CORDEIRO, D. Analise de desempenho e paralelização
+  de algoritmos para redes neurais profundas.
+2016.}
 
-\bibitem[Balieiro et~al. 2010]{ref12:balieiro}
-Balieiro, A., Dias, K., Castro, A., and Alves, E. (2010).
-\newblock Handoff de espectro em redes baseadas em rádio cognitivo utilizando
-  redes neurais artificiais.
+\bibitem[Balieiro et al. 2010]{ref12:balieiro}
+\abntrefinfo{Balieiro et al.}{BALIEIRO et al.}{2010}
+{BALIEIRO, A. et al. Handoff de espectro em redes baseadas em rádio cognitivo
+  utilizando redes neurais artificiais.
+2010.}
 
-\bibitem[Faceli et~al. 2011]{ref10:faceli}
-Faceli, K., Lorena, A.~C., Gama, J., and de~Carvalho, A. (2011).
-\newblock {\em Inteligência Artificial: Uma Abordagem de Aprendizado de
-  Máquina}.
-\newblock LTC.
+\bibitem[Braga, Carvalho e Ludermir 2007]{Teresa:Livro}
+\abntrefinfo{Braga, Carvalho e Ludermir}{BRAGA; CARVALHO; LUDERMIR}{2007}
+{BRAGA, A. de P.; CARVALHO, A.~P. de~Leon F.~de; LUDERMIR, T.~B. \emph{Redes
+  Neurais Artificiais: Teoria e Aplicações}. 2. ed. Rio de Janeiro: LTC,
+  2007.}
 
-\bibitem[Lammoglia et~al. 2007]{ref8:filho}
-Lammoglia, T., Filho, C., and Filho, R. (2007).
-\newblock Caracterização de microexsudações de hidrocarbonetos na bacia do
-  tucano norte (ba) por geoestatística, classifcação hiperespectral e redes
-  neurais.
+\bibitem[Faceli et al. 2011]{ref10:faceli}
+\abntrefinfo{Faceli et al.}{FACELI et al.}{2011}
+{FACELI, K. et al. \emph{Inteligência Artificial: Uma Abordagem de Aprendizado
+  de Máquina}. [S.l.]: LTC, 2011.}
 
-\bibitem[Lima et~al. 2011]{ref3:lima}
-Lima, P.~L., Seabra, H., Lima, R., Oliveira, R., and Neto, A. (2011).
-\newblock Classificação de qos em conteúdo multimídia para rede vpn
-  utilizando rede neural multilayer perceptron.
+\bibitem[Lima et al. 2011]{ref3:lima}
+\abntrefinfo{Lima et al.}{LIMA et al.}{2011}
+{LIMA, P.~L. et al. Classificação de qos em conteúdo multimídia para rede
+  vpn utilizando rede neural multilayer perceptron.
+2011.}
 
-\bibitem[Martins et~al. 2016]{ref4:prego}
-Martins, D., Prego, T., and Lima, A. (2016).
-\newblock Classificação de severidade de falhas em máquinas rotativas usando
-  \textit{Random Forest} e redes neurais artificiais.
+\bibitem[Martins, Prego e Lima 2016]{ref4:prego}
+\abntrefinfo{Martins, Prego e Lima}{MARTINS; PREGO; LIMA}{2016}
+{MARTINS, D.; PREGO, T.; LIMA, A. Classificação de severidade de falhas em
+  máquinas rotativas usando \textit{Random Forest} e redes neurais
+  artificiais.
+2016.}
 
-\bibitem[Nóbrega and Filho 2003]{ref9:nobrega}
-Nóbrega, R. and Filho, C. (2003).
-\newblock Análise espacial guiada pelos dados (\textit{Data-Driven}): o uso de
-  redes neurais para avaliação do potencial poli-minerálico na região
-  centro-leste da bahia.
-
-\bibitem[Padro et~al. 2014]{ref7:duarte}
-Padro, P., Prandini, A., Martins, A., and Duarte, I. (2014).
-\newblock Aplicação de redes neurais artificiais no estudo simulado da
-  degradação facultativa de detergentes.
+\bibitem[Padro et al. 2014]{ref7:duarte}
+\abntrefinfo{Padro et al.}{PADRO et al.}{2014}
+{PADRO, P. et al. Aplicação de redes neurais artificiais no estudo simulado
+  da degradação facultativa de detergentes.
+2014.}
 
 \bibitem[Rojas 1996]{ref2:rojas}
-Rojas, R. (1996).
-\newblock {\em Neural Networks: A Systematic Introduction}.
-\newblock Springer.
+\abntrefinfo{Rojas}{ROJAS}{1996}
+{ROJAS, R. \emph{Neural Networks: A Systematic Introduction}. [S.l.]: Springer,
+  1996.}
 
-\bibitem[Silva et~al. 2017]{ref1:guedes}
-Silva, A.~G., da~Silva, E., de~Lucca, G., Passos, L., Matos, M., and Guedes, E.
-  (2017).
-\newblock Classificação de expressões faciais negativas na língua
-  brasileira de sinais.
+\bibitem[Silva et al. 2017]{ref1:guedes}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2017}
+{SILVA, A.~G. et al. Classificação de expressões faciais negativas na
+  língua brasileira de sinais. In:  \emph{Anais do IV Encontro Regional de
+  Informática da Região Norte I}. Manaus, Amazonas: ERIN, 2017. p. FALTANDO!}
 
-\bibitem[Siqueira and Castro 2016]{ref6:castro}
-Siqueira, A. and Castro, A. (2016).
-\newblock Reconhecimento de atividades humanas utilizando redes neurais
-  auto-associativas e dados de um \textit{Smartphone}.
+\bibitem[Soares e Teive 2015]{ref11:teive}
+\abntrefinfo{Soares e Teive}{SOARES; TEIVE}{2015}
+{SOARES, D.; TEIVE, R. Previsão de cheias do rio itajaí-açu utilizando redes
+  neurais artificiais.
+2015.}
 
-\bibitem[Soares and Teive 2015]{ref11:teive}
-Soares, D. and Teive, R. (2015).
-\newblock Previsão de cheias do rio itajaí-açu utilizando redes neurais
-  artificiais.
-
-=======
->>>>>>> Stashed changes
 \end{thebibliography}

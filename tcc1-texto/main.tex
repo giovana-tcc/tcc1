@@ -7,12 +7,15 @@
 \usepackage[brazil]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{booktabs}
+\usepackage[alf]{abntex2cite}
 \usepackage[bf,sf,footnotesize,indent,justification=centering]{caption}
 \usepackage[caption=true,font=footnotesize]{subfig}
 
 \usepackage{xcolor}
 \definecolor{lightblue}{RGB}{0,191,255}
 \usepackage[textsize=tiny,backgroundcolor=lightblue,linecolor=lightblue]{todonotes}
+\usepackage{comment}
+\usepackage{bbm,amsmath}
 
 \captionsetup[subfigure]{justification=centering,labelfont={bf,sf},textfont={bf,sf,footnotesize},singlelinecheck=off,justification=centering}
 \captionsetup[figure]{justification=centering,labelfont={bf,sf},textfont={bf,sf,footnotesize},singlelinecheck=off}
@@ -67,8 +70,8 @@
 \section{Considerações Parciais} \label{sec:consideracoes}
 \input{./files/consideracoes}
 
-
-\bibliographystyle{sbc}
+% Documentação abntex2cite
+% http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/abntex2/doc/abntex2cite.pdf
 \bibliography{sbc-template}
 
 \end{document}
