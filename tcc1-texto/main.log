@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.1)  5 MAR 2018 15:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.1)  9 APR 2018 16:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -769,7 +769,11 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \mathdisplay@stack=\toks38
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-) (./main.aux)
+) (./main.aux
+
+LaTeX Warning: Label `img:funcs_ativacao' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -883,64 +887,96 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
- (./files/introducao.tex) (./files/objetivos.tex) (./files/justificativa.tex) (./files/metodologia.tex) (./files/cronograma.tex) (./files/fundamentacao.tex (./files/rna.tex
-LaTeX Font Info:    Try loading font information for U+bbm on input line 6.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/bbm-macros/ubbm.fd
+ (./files/introducao.tex (./files/introducao/objetivos.tex) (./files/introducao/justificativa.tex) (./files/introducao/metodologia.tex) (./files/introducao/cronograma.tex)) (./files/fundamentacao.tex (./files/fundamentacao/rna.tex
+LaTeX Font Info:    Try loading font information for U+bbm on input line 7.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/bbm-macros/ubbm.fd
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
-)
-<./img/neuron.jpg, id=4, 267.6399pt x 145.9854pt>
+) <./img/neuron.jpg, id=4, 267.6399pt x 145.9854pt>
 File: ./img/neuron.jpg Graphic file (type jpg)
  <use ./img/neuron.jpg>
-Package pdftex.def Info: ./img/neuron.jpg used on input line 14.
+Package pdftex.def Info: ./img/neuron.jpg used on input line 15.
 (pdftex.def)             Requested size: 256.07741pt x 139.6855pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 15.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 16.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 15.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 16.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Excluding 'comment' comment. [1
+<./img/id.png, id=5, 274.02374pt x 194.22563pt>
+File: ./img/id.png Graphic file (type png)
+ <use ./img/id.png>
+Package pdftex.def Info: ./img/id.png used on input line 26.
+(pdftex.def)             Requested size: 170.71393pt x 121.00247pt.
+ <./img/sigmoide.png, id=7, 265.74281pt x 186.6975pt>
+File: ./img/sigmoide.png Graphic file (type png)
+ <use ./img/sigmoide.png>
+Package pdftex.def Info: ./img/sigmoide.png used on input line 27.
+(pdftex.def)             Requested size: 170.71393pt x 119.93608pt.
+ <./img/tanh.png, id=8, 274.77657pt x 186.6975pt>
+File: ./img/tanh.png Graphic file (type png)
+ <use ./img/tanh.png>
+Package pdftex.def Info: ./img/tanh.png used on input line 28.
+(pdftex.def)             Requested size: 170.71393pt x 115.99623pt.
+ <./img/relu.png, id=9, 245.41687pt x 185.94469pt>
+File: ./img/relu.png Graphic file (type png)
+ <use ./img/relu.png>
+Package pdftex.def Info: ./img/relu.png used on input line 29.
+(pdftex.def)             Requested size: 170.71393pt x 129.3489pt.
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./img/neuron.jpg>] [3]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 67.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
-)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \vbox (badness 7888) has occurred while \output is active []
+
+ [2 <./img/neuron.jpg> <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./img/relu.png>] <./img/rede-mlp.png, id=35, 828.09375pt x 535.2497pt>
+File: ./img/rede-mlp.png Graphic file (type png)
+ <use ./img/rede-mlp.png>
+Package pdftex.def Info: ./img/rede-mlp.png used on input line 48.
+(pdftex.def)             Requested size: 426.79135pt x 275.86493pt.
+ [3 <./img/rede-mlp.png>])
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 4.
- (./files/deep.tex)) (./files/relacionados.tex) (./files/solucao.tex) (./files/visaogeral.tex) (./files/analise.tex) (./files/consideracoes.tex) (./main.bbl [4])
+ (./files/fundamentacao/deep.tex)) (./files/relacionados.tex) (./files/solucao.tex (./files/solucao/visaogeral.tex) (./files/solucao/analise.tex)) (./files/consideracoes.tex) (./main.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package caption Warning: Unused \captionsetup[subfigure] on input line 20.
-See the caption package documentation for explanation.
-
+ [4])
 
 Package caption Warning: Unused \captionsetup[table] on input line 22.
 See the caption package documentation for explanation.
 
-[5] (./main.aux) ) 
+[5] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 16227 strings out of 492995
- 306822 string characters out of 6132705
- 371145 words of memory out of 5000000
- 19373 multiletter control sequences out of 15000+600000
- 22994 words of font info for 51 fonts, out of 8000000 for 9000
+ 16239 strings out of 492995
+ 307124 string characters out of 6132705
+ 372183 words of memory out of 5000000
+ 19379 multiletter control sequences out of 15000+600000
+ 24753 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,76p,1216b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/elloa/Library/texlive/2017/texmf-var/fonts/pk/ljfour/public/bbm/bbm12.600pk></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 794560 bytes).
+ 62i,13n,76p,1322b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/elloa/Library/texlive/2017/texmf-var/fonts/pk/ljfour/public/bbm/bbm12.600pk></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2017/texmf
+-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (5 pages, 1089349 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
