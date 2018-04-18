@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  13 APR 2018 11:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  18 APR 2018 09:39
 entering extended mode
 **./main.tex
 (main.tex
@@ -1115,7 +1115,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [1
 
 {C:/Users/giovanadelucca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \vbox (badness 7888) has occurred while \output is active []
+Underfull \vbox (badness 2165) has occurred while \output is active []
 
  [2 <./img/neuron.jpg> <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./
 img/relu.png>]
@@ -1132,24 +1132,25 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (files/solucao/analise.tex)) (files/consideracoes.tex) (main.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4])
+ [4]
+[5])
 
 Package caption Warning: Unused \captionsetup[table] on input line 22.
 See the caption package documentation for explanation.
 
-[5] (main.aux)
+[6] (main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 16247 strings out of 493303
- 308832 string characters out of 3135805
- 370767 words of memory out of 3000000
- 19373 multiletter control sequences out of 15000+200000
- 24753 words of font info for 53 fonts, out of 3000000 for 9000
+ 16202 strings out of 493303
+ 307795 string characters out of 3135805
+ 367900 words of memory out of 3000000
+ 19329 multiletter control sequences out of 15000+200000
+ 23168 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,13n,76p,1324b,694s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,13n,65p,1324b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/giovanadelucca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\gi
 ovanadelucca\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\bbm\dpi600\bbm12.p
 k><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -1165,9 +1166,9 @@ eX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fon
 ts/type1/urw/times/utmbi8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/
 urw/times/utmr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (5 pages, 1100482 bytes).
+Output written on main.pdf (6 pages, 1103452 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

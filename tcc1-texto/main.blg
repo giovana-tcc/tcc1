@@ -2,8 +2,15 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
 The style file: abntex2-alf.bst
 Database file #1: abntex2-options.bib
 Database file #2: sbc-template.bib
+Warning--entry type for "ref:apl-caracteres" isn't style-file defined
+--line 133 of file sbc-template.bib
+Warning--entry type for "ref:apl-robotica" isn't style-file defined
+--line 142 of file sbc-template.bib
+Warning--entry type for "ref:apl-jogos" isn't style-file defined
+--line 150 of file sbc-template.bib
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
+(There were 3 warnings)

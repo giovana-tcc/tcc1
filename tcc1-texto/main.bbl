@@ -5,6 +5,13 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Araujo et al. 2017]{ref:apl-clima2}
+\abntrefinfo{Araujo et al.}{ARAUJO et al.}{2017}
+{ARAUJO, N. et al. Previsão do volume mensal de precipitações em manaus,
+  amazonas com redes neurais aritificiais. In:  \emph{Anais do IV Encontro
+  Regional de Informática da Região Norte I}. Manaus, Amazonas: ERIN, 2017.
+  p. 108--116.}
+
 \bibitem[Braga, Carvalho e Ludermir 2007]{ref:teresa}
 \abntrefinfo{Braga, Carvalho e Ludermir}{BRAGA; CARVALHO; LUDERMIR}{2007}
 {BRAGA, A. de P.; CARVALHO, A.~P. de~Leon F.~de; LUDERMIR, T.~B. \emph{Redes
@@ -16,6 +23,19 @@
 {BUDUMA, N. \emph{Fundamentals of Deep Learning: Designing Next-Generation
   Machine Intelligence Algorithms}. 1. ed. Sebastopol, California: O'Reilly
   Media, 2017.}
+
+\bibitem[Caexeta 2008]{ref:apl-jogos}
+\abntrefinfo{Caexeta}{CAEXETA}{2008}
+{CAEXETA, G.~S. \emph{VisionDraughts - Um Sistema de Aprendizagem de Jogos de
+  Damas em Redes Neurais, Diferenças Temporais, Algoritmos Eficientes de Busca
+  em Árvore e Informações Perfeitas Contidas em Bases de Dados}.
+  Uberlândia, Minas Gerais: [s.n.], 2008.}
+
+\bibitem[Carvalho 2006]{ref:apl-caracteres}
+\abntrefinfo{Carvalho}{CARVALHO}{2006}
+{CARVALHO, C. E.~S. de. \emph{Reconhecimento de Caracteres Manuscritos
+  Utilizando Redes Neurais Artificiais}. Brasília, Distrito Federal: [s.n.],
+  2006.}
 
 \bibitem[Chollet 2017]{ref:chollet}
 \abntrefinfo{Chollet}{CHOLLET}{2017}
@@ -33,7 +53,7 @@
 {DELICATO, F.; PIRES, P.; SILVEIRA, I. Jornada de atualização em informática
   2017.
 In:  \underline{\ \ \ \ \ \ \ \ }. 1. ed. Porto Alegre, Rio Grande do Sul: SBC,
-  2017. v.~1, cap. Deep Learning - Teoria e Prática.}
+  2017.  (1, v.~1), cap.~6, p. 212--260.}
 
 \bibitem[Faceli et al. 2011]{ref:faceli}
 \abntrefinfo{Faceli et al.}{FACELI et al.}{2011}
@@ -57,6 +77,12 @@ In:  \underline{\ \ \ \ \ \ \ \ }. 1. ed. Porto Alegre, Rio Grande do Sul: SBC,
   Universidade do Estado do Amazonas.
 Universidade do Estado do Amazonas.}
 
+\bibitem[Pereira et al. 2016]{ref:apl-diagnostico2}
+\abntrefinfo{Pereira et al.}{PEREIRA et al.}{2016}
+{PEREIRA, R. et al. Abordagem deep learning para classificação de lesões
+  mamárias. In:  \emph{Anais do XXXVI Congresso da Sociedade Brasileira de
+  Computação}. Porto Alegre, Rio Grande do Sul: CSBC, 2016. p. 2597--2600.}
+
 \bibitem[Rojas 1996]{ref:rojas}
 \abntrefinfo{Rojas}{ROJAS}{1996}
 {ROJAS, R. \emph{Neural Networks: A Systematic Introduction}. 1. ed.
@@ -67,5 +93,30 @@ Universidade do Estado do Amazonas.}
 {ROSENBLAT, F. \emph{Principles of Neurodynamics}: Perceptrons and the theory
   of brain mechanisms.
 Washington, DC, 1961. 626~p.}
+
+\bibitem[Silva et al. 2017]{ref:meu-artigo}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2017}
+{SILVA, A.~G. et al. Classificação de expressões faciais negativas na
+  língua brasileira de sinais. In:  \emph{Anais do IV Encontro Regional de
+  Informática da Região Norte I}. Manaus, Amazonas: ERIN, 2017. p. 80--88.}
+
+\bibitem[Silva et al. 2016]{ref:apl-diagnostico1}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2016}
+{SILVA, G. da et al. Classification of malignancy of lung nodules in ct images
+  using convolutional neural network. In:  \emph{Anais do XXXVI Congresso da
+  Sociedade Brasileira de Computação}. Porto Alegre, Rio Grande do Sul: CSBC,
+  2016. p. 2481--2489.}
+
+\bibitem[Sousa et al. 2017]{ref:apl-clima1}
+\abntrefinfo{Sousa et al.}{SOUSA et al.}{2017}
+{SOUSA, R. et al. Redes neurais artificais aplicadas à previsão antecipada de
+  precipitações na região central de manaus. In:  \emph{Anais do IV Encontro
+  Regional de Informática da Região Norte I}. Manaus, Amazonas: ERIN, 2017.
+  p. 89--97.}
+
+\bibitem[Tinos 1999]{ref:apl-robotica}
+\abntrefinfo{Tinos}{TINOS}{1999}
+{TINOS, R. \emph{Detecção e Diagnóstico de Falhas em Robôs Manipuladores
+  via Redes Neurais Artificiais}. São Carlos, São Paulo: [s.n.], 1999.}
 
 \end{thebibliography}
