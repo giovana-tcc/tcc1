@@ -10,7 +10,7 @@ O neurônio artificial é a unidade fundamental na construção de RNAs, tendo s
 \phi(X,W) = \sum_{i =0}^m x_i \cdot w_i. \label{eq:somaPonderada}
 \end{equation}
 
-\begin{figure}[h!]
+\begin{figure}[!ht]
 	\centering
 \includegraphics[width=0.6\textwidth]{./img/neuron}
 \caption{Neurônio artificial: a combinação linear das entradas \emph{x} ponderadas pelos pesos \emph{w} é transformada pela função de ativação \emph{f} na saída \emph{y}.}
@@ -21,13 +21,12 @@ O neurônio artificial é a unidade fundamental na construção de RNAs, tendo s
 
 A função $f$ é chamada de \emph{função de ativação} e fornece a resposta de um neurônio para uma dada entrada. Esta função precisa ser monotônica e contínua, podendo comumente ser as funções identidade, sigmóide, tangente hiperbólica, ou a retificada linear (ReLU) \cite{ref:JAI-2017}. Estas funções encontram-se representadas na Figura \ref{img:funcs_ativacao}.
 
-\begin{figure}[h!]
+\begin{figure}[!ht]
 	\centering
 	\subfloat[Função identidade. \label{img:func_id}]{\includegraphics[width=0.4\linewidth]{./img/id}}
 	\subfloat[Função sigmóide.\label{img:func_sigmoide}]{\includegraphics[width=0.4\linewidth]{./img/sigmoide}}\\
 	\subfloat[Função tangente hiperbólica. \label{img:func_tanh}]{\includegraphics[width=0.4\linewidth]{./img/tanh}}
 	\subfloat[Função retificada linear.\label{img:func_relu}]{\includegraphics[width=0.4\linewidth]{./img/relu}}
-	\label{img:funcs_ativacao}
 	\caption{Exemplos de diferentes funções de ativação.}
 	\label{img:funcs_ativacao}
 \end{figure}
@@ -43,7 +42,7 @@ As RNAs do tipo Perceptron Multicamadas (MLP, do inglês \emph{Multilayer Percep
 Cada neurônio em uma rede MLP atua ponderando as entradas recebidas dos neurônios de uma camada anterior a ele conectados, produzindo como saída um valor, resultante de sua função de ativação, que é propagado às camadas seguintes da rede neural. Conforme exemplificado na Figura \ref{img:rede-mlp}, a combinação das atuações individuais desempenhadas por cada neurônio da rede que define a atuação associada à RNA como um todo \cite{ref:teresa,ref:faceli,ref:haykin}.
 
 
-\begin{figure}[h!]
+\begin{figure}[!ht]
 	\centering
 	\includegraphics[width=1\textwidth]{./img/rede-mlp}
 	\caption{Papel desempenhado pelos neurônios das diferentes camadas de uma rede MLP. Fonte: \cite{ref:faceli}.}

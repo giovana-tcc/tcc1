@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  25 APR 2018 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  2 MAY 2018 11:08
 entering extended mode
 **./main.tex
 (main.tex
@@ -923,11 +923,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \mathdisplay@stack=\toks38
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-) (main.aux
-
-LaTeX Warning: Label `img:funcs_ativacao' multiply defined.
-
-)
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -943,7 +939,7 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 36.
- ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -1059,7 +1055,9 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 
 (files/introducao.tex (files/introducao/objetivos.tex)
-(files/introducao/justificativa.tex) (files/introducao/metodologia.tex)
+(files/introducao/justificativa.tex) (files/introducao/metodologia.tex [1
+
+{C:/Users/giovanadelucca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 (files/introducao/cronograma.tex)) (files/fundamentacao.tex
 (files/fundamentacao/rna.tex
 LaTeX Font Info:    Try loading font information for U+bbm on input line 7.
@@ -1067,7 +1065,7 @@ LaTeX Font Info:    Try loading font information for U+bbm on input line 7.
 ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\bbm\ubbm.fd"
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
 )
-<./img/neuron.jpg, id=4, 267.6399pt x 145.9854pt>
+<./img/neuron.jpg, id=13, 267.6399pt x 145.9854pt>
 File: ./img/neuron.jpg Graphic file (type jpg)
 <use ./img/neuron.jpg>
 Package pdftex.def Info: ./img/neuron.jpg  used on input line 15.
@@ -1085,86 +1083,77 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/it' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 16.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./img/id.png, id=5, 274.02374pt x 194.22563pt>
+ [2]
+<./img/id.png, id=23, 274.02374pt x 194.22563pt>
 File: ./img/id.png Graphic file (type png)
 <use ./img/id.png>
 Package pdftex.def Info: ./img/id.png  used on input line 26.
 (pdftex.def)             Requested size: 170.71393pt x 121.00247pt.
-<./img/sigmoide.png, id=7, 265.74281pt x 186.6975pt>
+<./img/sigmoide.png, id=25, 265.74281pt x 186.6975pt>
 File: ./img/sigmoide.png Graphic file (type png)
 <use ./img/sigmoide.png>
 Package pdftex.def Info: ./img/sigmoide.png  used on input line 27.
 (pdftex.def)             Requested size: 170.71393pt x 119.93608pt.
-<./img/tanh.png, id=8, 274.77657pt x 186.6975pt>
+<./img/tanh.png, id=26, 274.77657pt x 186.6975pt>
 File: ./img/tanh.png Graphic file (type png)
 <use ./img/tanh.png>
 Package pdftex.def Info: ./img/tanh.png  used on input line 28.
 (pdftex.def)             Requested size: 170.71393pt x 115.99623pt.
-<./img/relu.png, id=9, 245.41687pt x 185.94469pt>
+<./img/relu.png, id=27, 245.41687pt x 185.94469pt>
 File: ./img/relu.png Graphic file (type png)
 <use ./img/relu.png>
 Package pdftex.def Info: ./img/relu.png  used on input line 29.
 (pdftex.def)             Requested size: 170.71393pt x 129.3489pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[1
-
-{C:/Users/giovanadelucca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \vbox (badness 2165) has occurred while \output is active []
-
- [2 <./img/neuron.jpg> <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./
+ [3 <./img/neuron.jpg> <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./
 img/relu.png>]
-<./img/rede-mlp.png, id=34, 828.09375pt x 535.2497pt>
+<./img/rede-mlp.png, id=37, 828.09375pt x 535.2497pt>
 File: ./img/rede-mlp.png Graphic file (type png)
 <use ./img/rede-mlp.png>
-Package pdftex.def Info: ./img/rede-mlp.png  used on input line 48.
+Package pdftex.def Info: ./img/rede-mlp.png  used on input line 47.
 (pdftex.def)             Requested size: 426.79135pt x 275.86493pt.
- [3 <./img/rede-mlp.png>])
+ [4 <./img/rede-mlp.png>])
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 4.
- (files/fundamentacao/deep.tex) [4])
+ (files/fundamentacao/deep.tex) [5])
 (files/relacionados.tex) (files/solucao.tex (files/solucao/visaogeral.tex)
-(files/solucao/analise.tex)) (files/consideracoes.tex) (main.bbl [5])
+(files/solucao/analise.tex)) (files/consideracoes.tex) (main.bbl [6]
+! Misplaced alignment tab character &.
+l.82   Vision}. 1. ed. [S.l.]: Morgan &
+                                        Claypool, 2018. v.~1.  (Synthesis Le...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-Package caption Warning: Unused \captionsetup[table] on input line 22.
-See the caption package documentation for explanation.
-
-[6] (main.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[7]) [8] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 16203 strings out of 493303
- 307809 string characters out of 3135805
- 367900 words of memory out of 3000000
- 19330 multiletter control sequences out of 15000+200000
+ 16215 strings out of 493303
+ 308036 string characters out of 3135805
+ 369026 words of memory out of 3000000
+ 19342 multiletter control sequences out of 15000+200000
  23168 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,13n,65p,1324b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/giovanadelucca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\gi
-ovanadelucca\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\bbm\dpi600\bbm12.p
-k><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
-><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-<C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
-:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
-Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Use
-rs/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
-s/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/giovan
-adelucca/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/giovanadelucc
-a/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/giovanadelucca/MiKT
-eX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fon
-ts/type1/urw/times/utmbi8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/
-urw/times/utmr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/
-utmri8a.pfb>
-Output written on main.pdf (6 pages, 1103678 bytes).
+{C:/Users/giovanadelucca/MiKTeX 2.9/fonts/enc/dvips/base/8
+r.enc} <C:\Users\giovanadelucca\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public
+\bbm\dpi600\bbm12.pk><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.p
+fb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/
+Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/
+giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/giovanadel
+ucca/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/giovanadelucca/MiKT
+eX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fon
+ts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (8 pages, 1111048 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -70,6 +70,18 @@ In:  \underline{\ \ \ \ \ \ \ \ }. 1. ed. Porto Alegre, Rio Grande do Sul: SBC,
 {HAYKIN, S.~S. \emph{Neural Networks and Learning Machines}. 3. ed. Upper
   Saddle River, New Jersey: Perason, 2009.}
 
+\bibitem[Joshi et al. 2017]{ref:satapathy}
+\abntrefinfo{Joshi et al.}{JOSHI et al.}{2017}
+{JOSHI et al. \emph{Information and Communication Technology for Intelligent
+  Systems (ICTIS 2017) Volume 2}. 1. ed. [S.l.]: Springer, 2017. v.~2.  (Smart
+  innovation systems and technologies 84, v.~2).}
+
+\bibitem[Khan et al. 2018]{ref:khan}
+\abntrefinfo{Khan et al.}{KHAN et al.}{2018}
+{KHAN, S. et al. \emph{A Guide to Convolutional Neural Networks for Computer
+  Vision}. 1. ed. [S.l.]: Morgan & Claypool, 2018. v.~1.  (Synthesis Lectures
+  on Computer Vision, v.~1).}
+
 \bibitem[Lima 2016]{ref:patrick-tcc}
 \abntrefinfo{Lima}{LIMA}{2016}
 {LIMA, P.~M. de. \emph{Redes Neurais para Predição de Séries Temporais de
