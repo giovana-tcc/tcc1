@@ -60,6 +60,13 @@ In:  \underline{\ \ \ \ \ \ \ \ }. 1. ed. Porto Alegre, Rio Grande do Sul: SBC,
 {FACELI, K. et al. \emph{Inteligência Artificial: Uma Abordagem de Aprendizado
   de Máquina}. 1. ed. Rio de Janeiro, Rio de Janeiro: LTC, 2011.}
 
+\bibitem[Goodfellow, Bengio e Courville 2016]{ref:goodfellow}
+\abntrefinfo{Goodfellow, Bengio e Courville}{GOODFELLOW; BENGIO;
+  COURVILLE}{2016}
+{GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. \emph{Deep Learning}. 1. ed.
+  Cambridge, Massachsetts: The MIT Press, 2016. v.~1.  (Adaptive computation
+  and machine learning series, v.~1).}
+
 \bibitem[Gulli e Pal 2017]{ref:gulli}
 \abntrefinfo{Gulli e Pal}{GULLI; PAL}{2017}
 {GULLI, A.; PAL, S. \emph{Deep Learning with Keras}. 1. ed. Birmingham, West
@@ -79,7 +86,7 @@ In:  \underline{\ \ \ \ \ \ \ \ }. 1. ed. Porto Alegre, Rio Grande do Sul: SBC,
 \bibitem[Khan et al. 2018]{ref:khan}
 \abntrefinfo{Khan et al.}{KHAN et al.}{2018}
 {KHAN, S. et al. \emph{A Guide to Convolutional Neural Networks for Computer
-  Vision}. 1. ed. [S.l.]: Morgan & Claypool, 2018. v.~1.  (Synthesis Lectures
+  Vision}. 1. ed. [S.l.]: Morgan and Claypool, 2018. v.~1.  (Synthesis Lectures
   on Computer Vision, v.~1).}
 
 \bibitem[Lima 2016]{ref:patrick-tcc}
