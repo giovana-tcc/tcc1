@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  7 MAY 2018 10:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  11 MAY 2018 16:24
 entering extended mode
 **./main.tex
 (main.tex
@@ -927,19 +927,19 @@ Package subfig Warning: You cannot set the `caption' option here if the
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 42.
  ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -1044,109 +1044,155 @@ Package caption Info: End \AtBeginDocument code.
 
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 40.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 44.
 
 ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
 
-(files/introducao.tex (files/introducao/objetivos.tex)
-(files/introducao/justificativa.tex) (files/introducao/metodologia.tex [1
+(files/introducao.tex [1
 
-{C:/Users/giovanadelucca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
-(files/introducao/cronograma.tex)) (files/fundamentacao.tex
+{C:/Users/giovanadelucca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (f
+iles/introducao/objetivos.tex)
+(files/introducao/justificativa.tex) (files/introducao/metodologia.tex [2])
+(files/introducao/cronograma.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+
+Overfull \hbox (14.30954pt too wide) in paragraph at lines 8--8
+[]\OT1/ptm/b/n/10 2018| 
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 9--9
+[]\OT1/ptm/b/n/10 03| 
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 9--9
+[]\OT1/ptm/b/n/10 05| 
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 9--9
+[]\OT1/ptm/b/n/10 07| 
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 9--9
+[]\OT1/ptm/b/n/10 09| 
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 9--9
+[]\OT1/ptm/b/n/10 11| 
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 11.
+
+Underfull \hbox (badness 6428) in paragraph at lines 12--12
+[]\OT1/ptm/b/n/10 Estudo do fer-ra-men-tal tec-nol[]ogico para
+ []
+
+
+Overfull \hbox (1.63979pt too wide) in paragraph at lines 6--25
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 25.
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 25.
+)
+(files/introducao/organizacao.tex)) (files/fundamentacao.tex
 (files/fundamentacao/rna.tex
 LaTeX Font Info:    Try loading font information for U+bbm on input line 7.
 
 ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\bbm\ubbm.fd"
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
-)
-<./img/neuron.jpg, id=13, 267.6399pt x 145.9854pt>
+) [3]
+<./img/neuron.jpg, id=19, 267.6399pt x 145.9854pt>
 File: ./img/neuron.jpg Graphic file (type jpg)
 <use ./img/neuron.jpg>
 Package pdftex.def Info: ./img/neuron.jpg  used on input line 15.
 (pdftex.def)             Requested size: 256.07741pt x 139.6855pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 16.
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/it' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 16.
- [2]
-<./img/id.png, id=23, 274.02374pt x 194.22563pt>
+<./img/id.png, id=20, 274.02374pt x 194.22563pt>
 File: ./img/id.png Graphic file (type png)
 <use ./img/id.png>
 Package pdftex.def Info: ./img/id.png  used on input line 26.
 (pdftex.def)             Requested size: 170.71393pt x 121.00247pt.
-<./img/sigmoide.png, id=25, 265.74281pt x 186.6975pt>
+<./img/sigmoide.png, id=22, 265.74281pt x 186.6975pt>
 File: ./img/sigmoide.png Graphic file (type png)
 <use ./img/sigmoide.png>
 Package pdftex.def Info: ./img/sigmoide.png  used on input line 27.
 (pdftex.def)             Requested size: 170.71393pt x 119.93608pt.
-<./img/tanh.png, id=26, 274.77657pt x 186.6975pt>
+<./img/tanh.png, id=23, 274.77657pt x 186.6975pt>
 File: ./img/tanh.png Graphic file (type png)
 <use ./img/tanh.png>
 Package pdftex.def Info: ./img/tanh.png  used on input line 28.
 (pdftex.def)             Requested size: 170.71393pt x 115.99623pt.
-<./img/relu.png, id=27, 245.41687pt x 185.94469pt>
+<./img/relu.png, id=24, 245.41687pt x 185.94469pt>
 File: ./img/relu.png Graphic file (type png)
 <use ./img/relu.png>
 Package pdftex.def Info: ./img/relu.png  used on input line 29.
 (pdftex.def)             Requested size: 170.71393pt x 129.3489pt.
- [3 <./img/neuron.jpg> <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./
+ [4]
+Underfull \vbox (badness 7888) has occurred while \output is active []
+
+ [5 <./img/neuron.jpg> <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./
 img/relu.png>]
-<./img/rede-mlp.png, id=37, 828.09375pt x 535.2497pt>
+<./img/rede-mlp.png, id=44, 828.09375pt x 535.2497pt>
 File: ./img/rede-mlp.png Graphic file (type png)
 <use ./img/rede-mlp.png>
 Package pdftex.def Info: ./img/rede-mlp.png  used on input line 47.
 (pdftex.def)             Requested size: 426.79135pt x 275.86493pt.
- [4 <./img/rede-mlp.png>])
+ [6 <./img/rede-mlp.png>])
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 4.
  (files/fundamentacao/deep.tex
-(files/fundamentacao/deep/cnn.tex [5])
-(files/fundamentacao/deep/arquiteturas.tex [6])
+(files/fundamentacao/deep/cnn.tex [7])
+(files/fundamentacao/deep/arquiteturas.tex [8])
 (files/fundamentacao/deep/transfer.tex))) (files/relacionados.tex)
 (files/solucao.tex (files/solucao/visaogeral.tex) (files/solucao/analise.tex))
-(files/consideracoes.tex) (main.bbl [7]) [8] (main.aux) ) 
+(files/consideracoes.tex) (main.bbl [9]) [10] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 16233 strings out of 493303
- 308656 string characters out of 3135805
- 369045 words of memory out of 3000000
- 19349 multiletter control sequences out of 15000+200000
- 23168 words of font info for 51 fonts, out of 3000000 for 9000
+ 16326 strings out of 493303
+ 310716 string characters out of 3135805
+ 380208 words of memory out of 3000000
+ 19435 multiletter control sequences out of 15000+200000
+ 29021 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,13n,65p,1324b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/giovanadeluc
-ca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\giovanadelucca\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\public\bbm\dpi600\bbm12.pk><C:/Users/giovanadeluc
-ca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/giovanadelucc
-a/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/giovanadelucca
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/giovanadelucca/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/giovanadelucca/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/giovanadelucca/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/giovanadelucca/MiKTeX 
-2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/font
-s/type1/urw/helvetic/uhvb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1
-/urw/helvetic/uhvbo8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/t
-imes/utmb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmbi
-8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:
-/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (8 pages, 1116602 bytes).
+ 62i,14n,76p,1324b,694s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/giovanadelu
+cca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\giovanadelucca\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\public\bbm\dpi600\bbm12.pk><C:/Users/giovanadelu
+cca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/giovanadeluc
+ca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/giovanadelucc
+a/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/giovanadelucca/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/giovanadelucca/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/giovanadelucca/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/giovanadelucca/MiKTeX
+ 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type
+1/urw/helvetic/uhvbo8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/
+times/utmb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmb
+i8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C
+:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (10 pages, 1127409 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
+ 107 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

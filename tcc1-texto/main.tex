@@ -17,6 +17,10 @@
 \usepackage{comment}
 \usepackage{bbm,amsmath}
 
+\newcommand\Tstrut{\rule{0pt}{2.5ex}}
+\newcommand\Bstrut{\rule[-1.0ex]{0pt}{0pt}}
+\newcommand\TBstrut{\Tstrut\Bstrut} 
+
 \captionsetup[subfigure]{justification=centering,labelfont={bf,sf},textfont={bf,sf,footnotesize},singlelinecheck=off,justification=centering}
 \captionsetup[figure]{justification=centering,labelfont={bf,sf},textfont={bf,sf,footnotesize},singlelinecheck=off}
 \captionsetup[table]{justification=centering,labelfont={bf,sf},textfont={bf,sf,footnotesize},singlelinecheck=off,justification=centering}
@@ -39,7 +43,7 @@
 
 \maketitle
 
-\section{Introdução}
+\section{Introdução} \label{sec:introducao}
 \input{./files/introducao}
 
 \section{Fundamentação Teórica} \label{sec:fundamentacao}

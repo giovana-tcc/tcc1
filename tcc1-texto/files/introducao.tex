@@ -1,6 +1,18 @@
 % O começo da introdução vai aqui
+As técnicas de Aprendizado de Máquina (AM) têm sido aplicadas com sucesso em um grande número de problemas reais em diversos domínios. A principal razão disso está relacionada com a capacidade que os computadores conseguem aprender sem a necessidade de serem explicitamente programados para tarefas específicas. A ideia do AM é utilizar algoritmos capazes de aprender através de exemplos, baseando-se apenas em experiências passadas \cite{ref:faceli,ref:gulli}.
 
-\subsection{Objetivos}
+A Visão Computacional (VC) é uma área que procura desenvolver métodos capazes de replicar nos computadores as capacidades da visão humana. O reconhecimento de imagens é uma parte integrante do processo de VC e aplica as técnicas de processamento digital de imagens para extrair as características de uma imagem. Antes da era do AM, o procedimento de extração de características de imagens envolvia um grande esforço devido ao processamento e à aplicação de uma variedade de métodos matemáticos. Em algumas situações eram utilizadas análises de um especialista para descobrir as regras necessárias para o reconhecimento e extração das características \cite{ref:faceli}.  
+ 
+
+Devido ao progresso significativo no campo da VC e da tecnologia de sensores visuais, a VC e o AM desempenharam juntos papéis decisivos no desenvolvimento de uma variedade de aplicações baseadas em processamento digital de imagens \cite{ref:khan}. Uma das aplicações pioneiras que envolve essas duas áreas se trata do reconhecimento de caracteres manuscritos (\textit{dataset} MNIST). Além disso, a VC e o AM também vêm atuando bastante no campo da Medicina, principalmente na classificação de diagnósticos.  Outra aplicação muito difundida é a identificação de conteúdo de imagens (\textit{dataset} CIFAR-10). Neste cenário, um dos projetos emergentes é o ImageNet, o qual disponibiliza um grande banco de imagens projetado para tarefas de VC e propõe anualmente um desafio (\textit{ImageNet Large Scale Visual Recognition Challenge}) que avalia algoritmos para detecção de objetos e classificação de imagens em larga escala.
+
+Nas últimas décadas, com a crescente complexidade dos problemas a serem tratados computacionalmente e do volume de dados gerados por diferentes setores, tornou-se clara a necessidade de ferramentas computacionais mais sofisticadas \cite{ref:faceli}. Embora os algoritmos de AM já existam há bastante tempo, a capacidade de aplicar automaticamente cálculos matemáticos complexos em uma grande escala de dados é um desenvolvimento mais recente. Isso ocorre porque o aumento do poder dos computadores atuais, em termos de velocidade e memória, ajudou as técnicas de AM a evoluir e criar redes neurais com uma grande quantidade de camadas, uma técnica conhecida como \textit{Deep Learning} (DL). As três principais vantagens oferecidas pela DL são a simplicidade da construção das redes, a escalabilidade, por lidar com um grande volume de dados e a transferência de conhecimento (do inglês \textit{Transfer Learning} - TL), pois um modelo treinado para uma determinada tarefa pode ser aplicado para outras tarefas relacionadas \cite{ref:khan}. 
+
+Considerando este cenário, a proposta do presente trabalho de conclusão de curso visa explorar as arquiteturas canônicas de redes neurais convolucionais utilizando as técnicas de DL e TL aplicadas ao problema de colorização artificial de imagens. Neste problema, uma imagem em escala de cinza (uma imagem histórica, por exemplo) é apresentada a uma rede neural convolucional e, como resposta, se busca uma versão colorida da mesma. Essa colorização deve ser plausível e realista ao ponto de não possuir inconsistência visual quando analisada por pessoas comuns.
+
+Ao longo desta seção serão mostrados os elementos que apresentam este trabalho. A Seção \ref{subsec:objetivos} contempla os objetivos propostos para o desenvolvimento do projeto. Na Seção \ref{subsec:jutificativa} são apresentadas as justificativas do trabalho em questão. A metodologia adotada é apresentada na Seção \ref{subsec:metodologia}. Por fim, a Seção \ref{subsec:cronograma} apresenta o cronograma das atividades seguido da Seção \ref{subsec:organizacao} que dispõe a organização do documento. 
+
+\subsection{Objetivos} \label{subsec:objetivos}
 \input{./files/introducao/objetivos}
 
 \subsection{Justificativa} \label{subsec:jutificativa}
@@ -11,3 +23,6 @@
 
 \subsection{Cronograma} \label{subsec:cronograma}
 \input{./files/introducao/cronograma}
+
+\subsection{Organização do Documento} \label{subsec:organizacao}
+\input{./files/introducao/organizacao}
