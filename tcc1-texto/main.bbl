@@ -77,12 +77,6 @@ In:  \underline{\ \ \ \ \ \ \ \ }. 1. ed. Porto Alegre, Rio Grande do Sul: SBC,
 {HAYKIN, S.~S. \emph{Neural Networks and Learning Machines}. 3. ed. Upper
   Saddle River, New Jersey: Perason, 2009.}
 
-\bibitem[Joshi et al. 2017]{ref:satapathy}
-\abntrefinfo{Joshi et al.}{JOSHI et al.}{2017}
-{JOSHI et al. \emph{Information and Communication Technology for Intelligent
-  Systems (ICTIS 2017) Volume 2}. 1. ed. [S.l.]: Springer, 2017. v.~2.  (Smart
-  innovation systems and technologies 84, v.~2).}
-
 \bibitem[Khan et al. 2018]{ref:khan}
 \abntrefinfo{Khan et al.}{KHAN et al.}{2018}
 {KHAN, S. et al. \emph{A Guide to Convolutional Neural Networks for Computer
@@ -112,6 +106,11 @@ Universidade do Estado do Amazonas.}
 {ROSENBLAT, F. \emph{Principles of Neurodynamics}: Perceptrons and the theory
   of brain mechanisms.
 Washington, DC, 1961. 626~p.}
+
+\bibitem[Sewak, Karim e Pujari 2018]{ref:sewak}
+\abntrefinfo{Sewak, Karim e Pujari}{SEWAK; KARIM; PUJARI}{2018}
+{SEWAK, M.; KARIM, R.; PUJARI, P. \emph{Pratical Convolutional Neural
+  Networks}. 1. ed. Birmingham, West Midlands: Packt, 2018.}
 
 \bibitem[Silva et al. 2017]{ref:meu-artigo}
 \abntrefinfo{Silva et al.}{SILVA et al.}{2017}

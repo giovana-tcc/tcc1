@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  11 MAY 2018 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  14 MAY 2018 11:13
 entering extended mode
 **./main.tex
 (main.tex
@@ -1113,12 +1113,12 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 25.
 )
 (files/introducao/organizacao.tex)) (files/fundamentacao.tex
-(files/fundamentacao/rna.tex
+(files/fundamentacao/rna.tex [3]
 LaTeX Font Info:    Try loading font information for U+bbm on input line 7.
 
 ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\bbm\ubbm.fd"
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
-) [3]
+)
 <./img/neuron.jpg, id=19, 267.6399pt x 145.9854pt>
 File: ./img/neuron.jpg Graphic file (type jpg)
 <use ./img/neuron.jpg>
@@ -1128,29 +1128,27 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/it' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 16.
-<./img/id.png, id=20, 274.02374pt x 194.22563pt>
+ [4]
+<./img/id.png, id=31, 274.02374pt x 194.22563pt>
 File: ./img/id.png Graphic file (type png)
 <use ./img/id.png>
 Package pdftex.def Info: ./img/id.png  used on input line 26.
 (pdftex.def)             Requested size: 170.71393pt x 121.00247pt.
-<./img/sigmoide.png, id=22, 265.74281pt x 186.6975pt>
+<./img/sigmoide.png, id=33, 265.74281pt x 186.6975pt>
 File: ./img/sigmoide.png Graphic file (type png)
 <use ./img/sigmoide.png>
 Package pdftex.def Info: ./img/sigmoide.png  used on input line 27.
 (pdftex.def)             Requested size: 170.71393pt x 119.93608pt.
-<./img/tanh.png, id=23, 274.77657pt x 186.6975pt>
+<./img/tanh.png, id=34, 274.77657pt x 186.6975pt>
 File: ./img/tanh.png Graphic file (type png)
 <use ./img/tanh.png>
 Package pdftex.def Info: ./img/tanh.png  used on input line 28.
 (pdftex.def)             Requested size: 170.71393pt x 115.99623pt.
-<./img/relu.png, id=24, 245.41687pt x 185.94469pt>
+<./img/relu.png, id=35, 245.41687pt x 185.94469pt>
 File: ./img/relu.png Graphic file (type png)
 <use ./img/relu.png>
 Package pdftex.def Info: ./img/relu.png  used on input line 29.
 (pdftex.def)             Requested size: 170.71393pt x 129.3489pt.
- [4]
-Underfull \vbox (badness 7888) has occurred while \output is active []
-
  [5 <./img/neuron.jpg> <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./
 img/relu.png>]
 <./img/rede-mlp.png, id=44, 828.09375pt x 535.2497pt>
@@ -1158,41 +1156,55 @@ File: ./img/rede-mlp.png Graphic file (type png)
 <use ./img/rede-mlp.png>
 Package pdftex.def Info: ./img/rede-mlp.png  used on input line 47.
 (pdftex.def)             Requested size: 426.79135pt x 275.86493pt.
- [6 <./img/rede-mlp.png>])
+
+[6 <./img/rede-mlp.png>])
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 4.
- (files/fundamentacao/deep.tex
-(files/fundamentacao/deep/cnn.tex [7])
-(files/fundamentacao/deep/arquiteturas.tex [8])
-(files/fundamentacao/deep/transfer.tex))) (files/relacionados.tex)
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 6.
+ (files/fundamentacao/deep.tex)
+(files/fundamentacao/cnn.tex [7] (files/fundamentacao/convolucao.tex
+<./img/convolucao.png, id=52, 944.02687pt x 567.62062pt>
+File: ./img/convolucao.png Graphic file (type png)
+<use ./img/convolucao.png>
+Package pdftex.def Info: ./img/convolucao.png  used on input line 9.
+(pdftex.def)             Requested size: 384.1096pt x 230.95908pt.
+)
+(files/fundamentacao/camadas.tex [8 <./img/convolucao.png>]
+<./img/pooling.png, id=56, 1011.78pt x 605.26125pt>
+File: ./img/pooling.png Graphic file (type png)
+<use ./img/pooling.png>
+Package pdftex.def Info: ./img/pooling.png  used on input line 5.
+(pdftex.def)             Requested size: 384.1096pt x 229.78pt.
+))
+(files/fundamentacao/tecnologias.tex)) (files/relacionados.tex)
 (files/solucao.tex (files/solucao/visaogeral.tex) (files/solucao/analise.tex))
-(files/consideracoes.tex) (main.bbl [9]) [10] (main.aux) ) 
+(files/consideracoes.tex) (main.bbl [9 <./img/pooling.png>] [10]) [11]
+(main.aux) ) 
 Here is how much of TeX's memory you used:
- 16326 strings out of 493303
- 310716 string characters out of 3135805
- 380208 words of memory out of 3000000
- 19435 multiletter control sequences out of 15000+200000
+ 16338 strings out of 493303
+ 310926 string characters out of 3135805
+ 380298 words of memory out of 3000000
+ 19445 multiletter control sequences out of 15000+200000
  29021 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,14n,76p,1324b,694s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/giovanadelu
-cca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\giovanadelucca\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\public\bbm\dpi600\bbm12.pk><C:/Users/giovanadelu
-cca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/giovanadeluc
-ca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/giovanadelucc
-a/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/giovanadelucca/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/giovanadelucca/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/giovanadelucca/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/giovanadelucca/MiKTeX
- 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fon
-ts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type
-1/urw/helvetic/uhvbo8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/
-times/utmb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmb
-i8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C
-:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (10 pages, 1127409 bytes).
+{C:/Users/giovanadelucca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C
+:\Users\giovanadelucca\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\bbm\dpi6
+00\bbm12.pk><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi12.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Us
+ers/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/gio
+vanadelucca/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/giovanade
+lucca/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/giovanadelucca/MiKT
+eX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fo
+nts/type1/urw/times/utmr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on main.pdf (11 pages, 2507105 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
