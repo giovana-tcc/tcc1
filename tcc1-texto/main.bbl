@@ -29,13 +29,13 @@
 {CAEXETA, G.~S. \emph{VisionDraughts - Um Sistema de Aprendizagem de Jogos de
   Damas em Redes Neurais, Diferenças Temporais, Algoritmos Eficientes de Busca
   em Árvore e Informações Perfeitas Contidas em Bases de Dados}.
-  Uberlândia, Minas Gerais: [s.n.], 2008.}
+  Uberlândia, Minas Gerais: Universidade Federal de Uberlândia, 2008.}
 
 \bibitem[Carvalho 2006]{ref:apl-caracteres}
 \abntrefinfo{Carvalho}{CARVALHO}{2006}
 {CARVALHO, C. E.~S. de. \emph{Reconhecimento de Caracteres Manuscritos
-  Utilizando Redes Neurais Artificiais}. Brasília, Distrito Federal: [s.n.],
-  2006.}
+  Utilizando Redes Neurais Artificiais}. Brasília, Distrito Federal: Centro
+  Universitário de Brasília, 2006.}
 
 \bibitem[Chollet 2017]{ref:chollet}
 \abntrefinfo{Chollet}{CHOLLET}{2017}
@@ -50,10 +50,10 @@
 
 \bibitem[Delicato, Pires e Silveira 2017]{ref:JAI-2017}
 \abntrefinfo{Delicato, Pires e Silveira}{DELICATO; PIRES; SILVEIRA}{2017}
-{DELICATO, F.; PIRES, P.; SILVEIRA, I. Jornada de atualização em informática
-  2017.
-In:  \underline{\ \ \ \ \ \ \ \ }. 1. ed. Porto Alegre, Rio Grande do Sul: SBC,
-  2017.  (1, v.~1), cap.~6, p. 212--260.}
+{DELICATO, F.; PIRES, P.; SILVEIRA, I. Jornada de {A}tualização em
+  {I}nformática 2017.
+In:  CSBC. \emph{Congresso da Sociedade Brasileira de Computação}. Porto
+  Alegre, Rio Grande do Sul: SBC, 2017. cap.~6, p. 212--260.}
 
 \bibitem[Faceli et al. 2011]{ref:faceli}
 \abntrefinfo{Faceli et al.}{FACELI et al.}{2011}
@@ -80,8 +80,8 @@ In:  \underline{\ \ \ \ \ \ \ \ }. 1. ed. Porto Alegre, Rio Grande do Sul: SBC,
 \bibitem[Khan et al. 2018]{ref:khan}
 \abntrefinfo{Khan et al.}{KHAN et al.}{2018}
 {KHAN, S. et al. \emph{A Guide to Convolutional Neural Networks for Computer
-  Vision}. 1. ed. [S.l.]: Morgan and Claypool, 2018. v.~1.  (Synthesis Lectures
-  on Computer Vision, v.~1).}
+  Vision}. 1. ed. Australia: Morgan and Claypool, 2018. v.~1.  (Synthesis
+  Lectures on Computer Vision, v.~1).}
 
 \bibitem[Lima 2016]{ref:patrick-tcc}
 \abntrefinfo{Lima}{LIMA}{2016}
@@ -135,6 +135,7 @@ Washington, DC, 1961. 626~p.}
 \bibitem[Tinos 1999]{ref:apl-robotica}
 \abntrefinfo{Tinos}{TINOS}{1999}
 {TINOS, R. \emph{Detecção e Diagnóstico de Falhas em Robôs Manipuladores
-  via Redes Neurais Artificiais}. São Carlos, São Paulo: [s.n.], 1999.}
+  via Redes Neurais Artificiais}. São Carlos, São Paulo: Universidade de São
+  Paulo, 1999.}
 
 \end{thebibliography}
