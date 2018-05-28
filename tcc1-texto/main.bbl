@@ -134,6 +134,12 @@ Dispon{\'\i}vel em: \url{http://places.csail.mit.edu/}.}
   of brain mechanisms.
 Washington, DC, 1961. 626~p.}
 
+\bibitem[Russakovsky et al. 2015]{ILSVRC}
+\abntrefinfo{Russakovsky et al.}{RUSSAKOVSKY et al.}{2015}
+{RUSSAKOVSKY, O. et al. {ImageNet Large Scale Visual Recognition Challenge}.
+\emph{International Journal of Computer Vision (IJCV)}, v.~115, n.~3, p.
+  211--252, 2015.}
+
 \bibitem[Sewak, Karim e Pujari 2018]{ref:sewak}
 \abntrefinfo{Sewak, Karim e Pujari}{SEWAK; KARIM; PUJARI}{2018}
 {SEWAK, M.; KARIM, R.; PUJARI, P. \emph{Pratical Convolutional Neural

@@ -1,0 +1,28 @@
+Neste cenário, o problema de colorização de imagens será abordado como uma tarefa de regressão, cujo objetivo é obter uma estimativa dos parâmetros de coloração dos pixels de uma determinada imagem. De maneira mais detalhada, a Figura \ref{fig:aprendizado} ilustra o processamento das imagens enumerados a seguir:
+
+\begin{figure}[h]
+	\centering
+	\missingfigure{Passo a passo do processo de aprendizado.}
+	\caption{Detalhamento do processo de aprendizado.}
+	\label{fig:aprendizado}
+\end{figure}
+
+\begin{enumerate}
+	\item Imagem de entrada colorida;
+	\item Recorte da imagem mediante dimensão predominante;
+	\item Redimensionamento da imagem para $128$ x $128$ pixels;
+	\item Conversão do espaço de cores RGB para CIELab;
+	\item Apresentação da luminosidade $L$ para um modelo de DL que irá estimar os valores de $a$ e $b$;
+	\item Composição da imagem colorida e avaliação dos resultados. 
+\end{enumerate}
+
+No escopo deste trabalho serão consideradas as as arquiteturas canônicas de CNNs LeNet, AlexNet, VGGNet e GoogLeNet, as quais serão ajustadas ao problema em questão mediante TL. A entrada deste problema de regressão será uma matriz de dimensões $128$ x $128$ correspondendo à luminosidade de uma dada imagem. A CNN deverá produzir como saída duas matries de igual dimensão correspondendo aos parâmetros de coloração.
+
+Nesta tarefa de regressão, realizada de acordo com o paradigma supervisionado, a métrica de desempenho utilizada será o Erro Quadrático Médio, do inglês \emph{Mean Squared Error} (MSE), definida na Equação \ref{eq:mse}, em que $y_i$ é o valor real da saída e $\hat{y}_i$ é o valor previsto pelo modelo \cite{ref:faceli}.
+
+\begin{equation}
+MSE = \frac{1}{n}\sum_{i=1}^n (y_i - \hat{y}_i)^{2}. \label{eq:mse}
+\end{equation}
+
+O treinamento e testes das CNNs seguirão a abordagem \emph{Holdout} de validação cruzada, em que $70\%$ dos dados serão utilizados no treino e ajuste de parâmetros e o restante para avaliação. 
+
