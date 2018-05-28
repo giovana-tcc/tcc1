@@ -1,12 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  28 MAY 2018 13:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.1)  28 MAY 2018 14:53
 entering extended mode
-**./main.tex
-(main.tex
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
 LaTeX2e <2017-04-15>
-Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\article.cls"
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\size12.clo"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -20,25 +23,19 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(sbc-template.sty
+) (./sbc-template.sty
 Package: sbc-template 2001/06/09
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -53,14 +50,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 \c@instn=\count90
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip43
@@ -71,75 +65,53 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidth=\dimen113
 \titlewidthlast=\dimen114
 \titlewidthfirst=\dimen115
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
 ))
 \Gin@req@height=\dimen116
 \Gin@req@width=\dimen117
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\url\url.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2018/01/24 3.17 The Babel package
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2018/01/24 3.17 Babel switching mechanism
-)
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2018/01/24 3.17 Babel common definitions
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2018/01/24 3.17 Babel switching mechanism
-)
-\babel@savecnt=\count91
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count92
 \U@D=\dimen118
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
-\bbl@dirlevel=\count92
 )
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\utf8.def"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -379,8 +351,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -420,8 +391,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 )
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -444,9 +414,8 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen119
 \lightrulewidth=\dimen120
 \cmidrulewidth=\dimen121
@@ -464,14 +433,11 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@thisruleclass=\count95
 \@lastruleclass=\count96
 \@thisrulewidth=\dimen131
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\abntex2\abntex2cite.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/abntex2/abntex2cite.sty
 Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\tools\calc.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count97
 \calc@Bcount=\count98
@@ -483,28 +449,24 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count99
 \calc@Cskip=\skip47
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\abntex2\abntex2abrev.sty")
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 \minimumbiblabelwidth=\skip48
 \ABCIauxlen=\skip49
 \c@ABCIaux=\count100
 \c@ABCImax=\count101
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
-Package: relsize 2003/07/04 ver 3.1
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
 )
 \biblabelsep=\skip50
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks19
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\caption\caption.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen134
@@ -516,11 +478,9 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@hangindent=\dimen140
 )
 \c@ContinuedFloat=\count102
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -533,56 +493,36 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
 Package: todonotes 2012/07/25
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks20
 \XKV@tempa@toks=\toks21
 )
 \XKV@depth=\count103
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.t
-ex"
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks22
 \pgfutil@tempdima=\dimen141
 \pgfutil@tempdimb=\dimen142
 
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-l
-ists.tex"))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.de
-f"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box27
- ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
- ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.te
-x"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
-"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks23
 \pgfkeys@temptoks=\toks24
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.
-code.tex"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks25
 ))
 \pgf@x=\dimen143
@@ -602,70 +542,34 @@ code.tex"
 \t@pgf@toka=\toks26
 \t@pgf@tokb=\toks27
 \t@pgf@tokc=\toks28
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.
-def"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-
-pdf.def"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath
-.code.tex"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count108
 \pgfsyssoftpath@bigbuffer@items=\count109
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol
-.code.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.te
-x"
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
- ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex"
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.te
-x"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen151
 \pgfmath@count=\count110
 \pgfmath@box=\box28
 \pgfmath@toks=\toks29
 \pgfmath@stack@operand=\toks30
 \pgfmath@stack@operation=\toks31
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code
-.tex"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basi
-c.code.tex")
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trig
-onometric.code.tex")
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.rand
-om.code.tex")
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comp
-arison.code.tex")
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base
-.code.tex")
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.roun
-d.code.tex")
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc
-.code.tex")
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.inte
-gerarithmetics.code.tex")))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
-"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count111
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.c
-ode.tex"
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen152
 \pgf@picmaxx=\dimen153
@@ -681,121 +585,76 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@yy=\dimen163
 \pgf@zx=\dimen164
 \pgf@zy=\dimen165
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathcons
-truct.code.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen166
 \pgf@path@lasty=\dimen167
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusag
-e.code.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen168
 \pgf@shorten@start@additional=\dimen169
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.c
-ode.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box29
 \pgf@hbox=\box30
 \pgf@layerbox@main=\box31
 \pgf@picture@serial@count=\count112
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphics
-tate.code.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen170
 )
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransfor
-mations.code.tex"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen171
 \pgf@pt@y=\dimen172
 \pgf@pt@temp=\dimen173
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.co
-de.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.
-code.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathproc
-essing.code.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.c
-ode.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen174
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.co
-de.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen175
 \pgf@sys@shading@range@num=\count113
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.co
-de.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal
-.code.tex"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box32
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.c
-ode.tex"
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretranspar
-ency.code.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns
-.code.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.co
-de.tex"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box33
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code
-.tex"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-versio
-n-0-65.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen176
 \pgf@nodesepend=\dimen177
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-versio
-n-1-18.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
-")) ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen178
 \pgffor@skip=\dimen179
 \pgffor@stack=\toks32
 \pgffor@toks=\toks33
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.co
-de.tex"
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplotha
-ndlers.code.tex"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count114
 \pgfplotmarksize=\dimen180
@@ -814,55 +673,42 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofchildren=\count116
 \tikznumberofcurrentchild=\count117
 \tikz@fig@count=\count118
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.co
-de.tex"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count119
 \pgfmatrixcurrentcolumn=\count120
 \pgf@matrix@numberofcolumns=\count121
 )
 \tikz@expandcount=\count122
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librari
-es\tikzlibrarytopaths.code.tex"
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librari
-es\tikzlibrarypositioning.code.tex"
+))) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
 \c@@todonotes@numberoftodonotes=\count123
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\comment\comment.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write4
-
-Excluding comment 'comment')
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\bbm\bbm.sty"
+ Excluding comment 'comment') (/usr/local/texlive/2017/texmf-dist/tex/latex/bbm-macros/bbm.sty
 Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
 LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
 (Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
 (Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2017/09/02 v2.17a AMS math features
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks34
 \ex@=\dimen187
-))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen188
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count124
@@ -902,8 +748,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \mathdisplay@stack=\toks38
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
 
@@ -924,7 +769,7 @@ Package subfig Warning: You cannot set the `caption' option here if the
 \c@lotdepth=\count142
 \sf@top=\skip57
 \sf@bottom=\skip58
-) (main.aux)
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
@@ -940,7 +785,7 @@ LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 42.
- ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -977,7 +822,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count143
 \scratchdimen=\dimen197
@@ -990,82 +835,61 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPnumerator=\count147
 \makeMPintoPDFobject=\count148
 \everyMPtoPDFconversion=\toks40
-) ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 44.
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+ (./files/introducao.tex [1
 
-(files/introducao.tex [1
-
-{C:/Users/giovanadelucca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (f
-iles/introducao/objetivos.tex)
-(files/introducao/justificativa.tex [2]) (files/introducao/metodologia.tex)
-(files/introducao/cronograma.tex
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./files/introducao/objetivos.tex) (./files/introducao/justificativa.tex [2]) (./files/introducao/metodologia.tex) (./files/introducao/cronograma.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 4.
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
@@ -1112,137 +936,108 @@ Overfull \hbox (1.63979pt too wide) in paragraph at lines 7--26
  [][] 
  []
 
-) (files/introducao/organizacao.tex)) [3] (files/fundamentacao.tex
-(files/fundamentacao/rna.tex [4]
+) (./files/introducao/organizacao.tex)) [3] (./files/fundamentacao.tex (./files/fundamentacao/rna.tex [4]
 LaTeX Font Info:    Try loading font information for U+bbm on input line 7.
-
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\bbm\ubbm.fd"
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/bbm-macros/ubbm.fd
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
-)
-<./img/neuron.jpg, id=24, 267.6399pt x 145.9854pt>
+) <./img/neuron.jpg, id=25, 267.6399pt x 145.9854pt>
 File: ./img/neuron.jpg Graphic file (type jpg)
-<use ./img/neuron.jpg>
-Package pdftex.def Info: ./img/neuron.jpg  used on input line 15.
+ <use ./img/neuron.jpg>
+Package pdftex.def Info: ./img/neuron.jpg used on input line 15.
 (pdftex.def)             Requested size: 256.07741pt x 139.6855pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/it' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 16.
-<./img/id.png, id=25, 274.02374pt x 194.22563pt>
+ <./img/id.png, id=26, 274.02374pt x 194.22563pt>
 File: ./img/id.png Graphic file (type png)
-<use ./img/id.png>
-Package pdftex.def Info: ./img/id.png  used on input line 26.
+ <use ./img/id.png>
+Package pdftex.def Info: ./img/id.png used on input line 26.
 (pdftex.def)             Requested size: 170.71393pt x 121.00247pt.
-<./img/sigmoide.png, id=27, 265.74281pt x 186.6975pt>
+ <./img/sigmoide.png, id=28, 265.74281pt x 186.6975pt>
 File: ./img/sigmoide.png Graphic file (type png)
-<use ./img/sigmoide.png>
-Package pdftex.def Info: ./img/sigmoide.png  used on input line 27.
+ <use ./img/sigmoide.png>
+Package pdftex.def Info: ./img/sigmoide.png used on input line 27.
 (pdftex.def)             Requested size: 170.71393pt x 119.93608pt.
-<./img/tanh.png, id=28, 274.77657pt x 186.6975pt>
+ <./img/tanh.png, id=29, 274.77657pt x 186.6975pt>
 File: ./img/tanh.png Graphic file (type png)
-<use ./img/tanh.png>
-Package pdftex.def Info: ./img/tanh.png  used on input line 28.
+ <use ./img/tanh.png>
+Package pdftex.def Info: ./img/tanh.png used on input line 28.
 (pdftex.def)             Requested size: 170.71393pt x 115.99623pt.
-<./img/relu.png, id=29, 245.41687pt x 185.94469pt>
+ <./img/relu.png, id=30, 245.41687pt x 185.94469pt>
 File: ./img/relu.png Graphic file (type png)
-<use ./img/relu.png>
-Package pdftex.def Info: ./img/relu.png  used on input line 29.
+ <use ./img/relu.png>
+Package pdftex.def Info: ./img/relu.png used on input line 29.
 (pdftex.def)             Requested size: 170.71393pt x 129.3489pt.
- [5 <./img/neuron.jpg>]
-<./img/rede-mlp.png, id=40, 828.09375pt x 535.2497pt>
+ [5 <./img/neuron.jpg>] <./img/rede-mlp.png, id=41, 828.09375pt x 535.2497pt>
 File: ./img/rede-mlp.png Graphic file (type png)
-<use ./img/rede-mlp.png>
-Package pdftex.def Info: ./img/rede-mlp.png  used on input line 47.
+ <use ./img/rede-mlp.png>
+Package pdftex.def Info: ./img/rede-mlp.png used on input line 47.
 (pdftex.def)             Requested size: 426.79135pt x 275.86493pt.
 
 Underfull \vbox (badness 2753) has occurred while \output is active []
 
- [6 <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./img/relu.png>]) [7 
-<./img/rede-mlp.png>]
+ [6 <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./img/relu.png>]) [7 <./img/rede-mlp.png>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 6.
- (files/fundamentacao/deep.tex (files/fundamentacao/cnn.tex [8]
-<./img/convolucao.png, id=55, 944.02687pt x 567.62062pt>
+ (./files/fundamentacao/deep.tex (./files/fundamentacao/cnn.tex [8] <./img/convolucao.png, id=56, 944.02687pt x 567.62062pt>
 File: ./img/convolucao.png Graphic file (type png)
-<use ./img/convolucao.png>
-Package pdftex.def Info: ./img/convolucao.png  used on input line 13.
+ <use ./img/convolucao.png>
+Package pdftex.def Info: ./img/convolucao.png used on input line 13.
 (pdftex.def)             Requested size: 384.1096pt x 230.95908pt.
-<./img/convolutions.png, id=56, 970.62625pt x 286.06876pt>
+ <./img/convolutions.png, id=57, 970.62625pt x 286.06876pt>
 File: ./img/convolutions.png Graphic file (type png)
-<use ./img/convolutions.png>
-Package pdftex.def Info: ./img/convolutions.png  used on input line 21.
+ <use ./img/convolutions.png>
+Package pdftex.def Info: ./img/convolutions.png used on input line 21.
 (pdftex.def)             Requested size: 384.1096pt x 113.20761pt.
-
-[9 <./img/convolucao.png>]
-<./img/cnn.png, id=61, 1067.99pt x 338.26375pt>
+ [9 <./img/convolucao.png>] <./img/cnn.png, id=62, 1067.99pt x 338.26375pt>
 File: ./img/cnn.png Graphic file (type png)
-<use ./img/cnn.png>
-Package pdftex.def Info: ./img/cnn.png  used on input line 32.
+ <use ./img/cnn.png>
+Package pdftex.def Info: ./img/cnn.png used on input line 32.
 (pdftex.def)             Requested size: 384.1096pt x 121.65613pt.
-) (files/fundamentacao/cnn/arquiteturas.tex
+) (./files/fundamentacao/cnn/arquiteturas.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10 <./img/convolutions.png> <./img/cnn.png>]
-<./img/ilsvrc.png, id=67, 996.72375pt x 279.29344pt>
+ [10 <./img/convolutions.png> <./img/cnn.png>] <./img/ilsvrc.png, id=68, 996.72375pt x 279.29344pt>
 File: ./img/ilsvrc.png Graphic file (type png)
-<use ./img/ilsvrc.png>
-Package pdftex.def Info: ./img/ilsvrc.png  used on input line 7.
+ <use ./img/ilsvrc.png>
+Package pdftex.def Info: ./img/ilsvrc.png used on input line 7.
 (pdftex.def)             Requested size: 426.79135pt x 119.59096pt.
-<./img/lenet.png, id=68, 933.4875pt x 287.57437pt>
+ <./img/lenet.png, id=69, 933.4875pt x 287.57437pt>
 File: ./img/lenet.png Graphic file (type png)
-<use ./img/lenet.png>
-Package pdftex.def Info: ./img/lenet.png  used on input line 21.
+ <use ./img/lenet.png>
+Package pdftex.def Info: ./img/lenet.png used on input line 21.
 (pdftex.def)             Requested size: 426.79135pt x 131.47841pt.
-<./img/alexnet.png, id=69, 980.16188pt x 435.12563pt>
+ <./img/alexnet.png, id=70, 980.16188pt x 435.12563pt>
 File: ./img/alexnet.png Graphic file (type png)
-<use ./img/alexnet.png>
-Package pdftex.def Info: ./img/alexnet.png  used on input line 31.
+ <use ./img/alexnet.png>
+Package pdftex.def Info: ./img/alexnet.png used on input line 31.
 (pdftex.def)             Requested size: 426.79135pt x 189.46402pt.
- [11 <./img/ilsvrc.png>]
-<./img/vggnet.png, id=73, 1025.33063pt x 420.06938pt>
+ [11 <./img/ilsvrc.png>] <./img/vggnet.png, id=74, 1025.33063pt x 420.06938pt>
 File: ./img/vggnet.png Graphic file (type png)
-<use ./img/vggnet.png>
-Package pdftex.def Info: ./img/vggnet.png  used on input line 40.
+ <use ./img/vggnet.png>
+Package pdftex.def Info: ./img/vggnet.png used on input line 40.
 (pdftex.def)             Requested size: 426.79135pt x 174.85114pt.
- [12 <./img/lenet.png> <./img/alexnet.png>]
-<./img/googlenet.png, id=77, 444.15938pt x 301.125pt>
+ [12 <./img/lenet.png> <./img/alexnet.png>] <./img/googlenet.png, id=78, 444.15938pt x 301.125pt>
 File: ./img/googlenet.png Graphic file (type png)
-<use ./img/googlenet.png>
-Package pdftex.def Info: ./img/googlenet.png  used on input line 50.
+ <use ./img/googlenet.png>
+Package pdftex.def Info: ./img/googlenet.png used on input line 50.
 (pdftex.def)             Requested size: 256.07741pt x 173.60959pt.
-) (files/fundamentacao/transfer.tex [13 <./img/vggnet.png> <./img/googlenet.png
->])) (files/fundamentacao/tecnologias.tex))
-(files/relacionados.tex) (files/solucao.tex (files/solucao/visaogeral.tex
-(files/solucao/tarefa.tex [14]) (files/solucao/dados.tex)
-(files/solucao/pre-process.tex)) (files/solucao/analise.tex))
-(files/consideracoes.tex) (main.bbl [15] [16]) [17] (main.aux) ) 
+) (./files/fundamentacao/transfer.tex [13 <./img/vggnet.png> <./img/googlenet.png>])) (./files/fundamentacao/tecnologias.tex)) (./files/relacionados.tex) (./files/solucao.tex (./files/solucao/tarefa.tex [14]) (./files/solucao/dados.tex) (./files/solucao/pre-process.tex)) (./files/consideracoes.tex) (./main.bbl [15] [16]) [17] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 16413 strings out of 493303
- 312488 string characters out of 3135805
- 378656 words of memory out of 3000000
- 19501 multiletter control sequences out of 15000+200000
- 27831 words of font info for 60 fonts, out of 3000000 for 9000
+ 16403 strings out of 492995
+ 310371 string characters out of 6132705
+ 380142 words of memory out of 5000000
+ 19512 multiletter control sequences out of 15000+600000
+ 28845 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,14n,65p,1324b,760s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/giova
-nadelucca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\giovanadelucca\AppD
-ata\Local\MiKTeX\2.9\fonts\pk\ljfour\public\bbm\dpi600\bbm12.pk><C:/Users/giova
-nadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/giovan
-adelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/giovana
-delucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/giovanade
-lucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/giovanadelu
-cca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/giovanadelucc
-a/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/giovanadelucca/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/giovanadelucca/Mi
-KTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9
-/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/
-type1/urw/helvetic/uhvbo8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/
-urw/times/utmb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/
-utmbi8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pf
-b><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (17 pages, 2936231 bytes).
+ 62i,14n,65p,1322b,760s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/elloa/Library/texlive/2017/texmf-var/fonts/pk/ljfour/public/bbm/bbm12.600pk></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (17 pages, 2920511 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
