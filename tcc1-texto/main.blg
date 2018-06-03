@@ -1,78 +1,22 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: main.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
 The style file: abntex2-alf.bst
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: sbc-template.bib
 Warning--entry type for "ref:apl-caracteres" isn't style-file defined
---line 263 of file sbc-template.bib
+--line 132 of file sbc-template.bib
 Warning--entry type for "ref:apl-robotica" isn't style-file defined
---line 281 of file sbc-template.bib
+--line 141 of file sbc-template.bib
 Warning--entry type for "ref:apl-jogos" isn't style-file defined
---line 297 of file sbc-template.bib
+--line 149 of file sbc-template.bib
 Warning--entry type for "ref:MNIST" isn't style-file defined
---line 481 of file sbc-template.bib
+--line 241 of file sbc-template.bib
 Warning--entry type for "ref:image-net" isn't style-file defined
---line 497 of file sbc-template.bib
+--line 249 of file sbc-template.bib
 Warning--entry type for "ref:places205" isn't style-file defined
---line 513 of file sbc-template.bib
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=20001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+--line 257 of file sbc-template.bib
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 31 entries,
-            6714 wiz_defined-function locations,
-            1366 strings with 14503 characters,
-and the built_in function-call counts, 27292 in all, are:
-= -- 2297
-> -- 943
-< -- 126
-+ -- 480
-- -- 280
-* -- 1914
-:= -- 3625
-add.period$ -- 127
-call.type$ -- 31
-change.case$ -- 324
-chr.to.int$ -- 88
-cite$ -- 30
-duplicate$ -- 1487
-empty$ -- 2034
-format.name$ -- 1353
-if$ -- 6494
-int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 580
-newline$ -- 136
-num.names$ -- 150
-pop$ -- 800
-preamble$ -- 1
-purify$ -- 125
-quote$ -- 0
-skip$ -- 1620
-stack$ -- 1
-substring$ -- 884
-swap$ -- 670
-text.length$ -- 21
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 5
-warning$ -- 0
-while$ -- 200
-width$ -- 0
-write$ -- 466
 (There were 6 warnings)
