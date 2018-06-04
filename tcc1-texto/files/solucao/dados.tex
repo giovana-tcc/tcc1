@@ -1,4 +1,6 @@
-Para alcançar os objetivos propostos no escopo deste trabalho de conclusão de curso, a base de dados a ser utilizada no processo de aprendizado será o conjunto de validação da tarefa \emph{Fine-grained classification} do ILSVRC $2012$ que está disponível em \cite{ref:image-net}. A Figura \ref{fig:visaogeral} apresenta uma visão geral deste conjunto de dados que dispõe de um total de $50$ mil imagens de diferentes naturezas, as quais foram coletadas do \emph{website} Flickr e de outras plataformas semelhantes e rotuladas manualmente por ausência ou presença de $1000$ diferentes categorias \cite{ILSVRC}. 
+Uma base de dados experimentais se faz necessária para treinar e testar os modelos baseados em DL, fornecendo a experiência sobre o problema e permitindo o aprendizado por meio do ajuste dos parâmetros treináveis. Considerando este objetivo, a base dados considerada no escopo deste trabalho consiste no conjunto de imagens de validação da tarefa \emph{Fine-grained classification} do ILSVRC $2012$ \cite{ref:image-net}.
+
+A base de dados experimentais adotada dispõe de um total de $50$ mil imagens de diferentes naturezas, as quais foram coletadas do \emph{website} Flickr e de outras plataformas semelhantes e rotuladas manualmente por ausência ou presença de $1000$ diferentes categorias \cite{ILSVRC}. Uma amostra das imagens contidas nesta base de dados pode ser vista na Figura \ref{fig:visaogeral}.
 
 \begin{figure}[h]
 	\centering
@@ -7,5 +9,8 @@ Para alcançar os objetivos propostos no escopo deste trabalho de conclusão de 
 	\label{fig:visaogeral}
 \end{figure}
 
-Como dito anteriormente, conjunto de dados será particionado para compor o processo de aprendizado e desse modo $35$ mil imagens serão utilizadas para o treinamento e ajustes dos modelos e as outras $15$ mil para as análises de desempenho. Entretanto, antes de disponibilizar a base de dados para os modelos de DL, as imagens devem estar bem estruturadas e, portanto, devem passar por um pré-processamento, o qual será detalhado na Seção \ref{subsec:pre-process}.
+Esta base de dados foi escolhida por possuir uma quantidade de imagens favorável para o treinamento dos muitos parâmetros presentes nos modelos de DL e pelas imagens possuirem uma variedade de classes, o que caracteriza um conjunto de exemplos suficientemente representativo para a generalização em um cenário de colorização artificial. Embora haja conjuntos de imagens do ILSVRC de maior tamanho, este conjunto escolhido permite uma manipulação razoável dos dados, considerando os recursos computacionais disponíveis neste projeto.
 
+Segundo a abordagem \emph{Holdout} de validação cruzada a ser adotada, conforme mencionado na Seção \ref{subsec:tarefa}, estas imagens serão particionadas em dois conjuntos: o de treinamento, contendo $35$ mil imagens, para ajuste dos parâmetros dos modelos; e o de testes, contendo as $15$ mil imagens remanescentes, para análise de desempenho.
+
+Entretanto, antes de utilizar diretamente esta base de dados junto aos modelos de DL, as imagens precisaram de ajustes de pré-processamento, conforme detalhado na seção a seguir.
