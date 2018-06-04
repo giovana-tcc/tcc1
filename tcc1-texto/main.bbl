@@ -18,10 +18,10 @@
   Neurais Artificiais: Teoria e Aplicações}. 2. ed. Rio de Janeiro, Rio de
   Janeiro: LTC, 2007.}
 
-\bibitem[Brink, Richards e Fetherolf 2017]{Brink:MachineLearningLivro}
+\bibitem[Brink, Richards e Fetherolf 2017]{ref:brink}
 \abntrefinfo{Brink, Richards e Fetherolf}{BRINK; RICHARDS; FETHEROLF}{2017}
 {BRINK, H.; RICHARDS, J.~W.; FETHEROLF, M. \emph{Real-World Machine Learning}.
-  Estados Unidos: Manning Publications, 2017.}
+  New York, Estados Unidos: Manning Publications, 2017.}
 
 \bibitem[Buduma 2017]{ref:buduma}
 \abntrefinfo{Buduma}{BUDUMA}{2017}
@@ -111,6 +111,11 @@ Universidade do Estado do Amazonas.}
 {LU, L. et al. \emph{Deep Learning and Convolutional Neural Networks for
   Medical Image Computing}. Cham, Switzerland: Springer, 2017.  (Advances in
   Computer Vision and Pattern Recognition).}
+
+\bibitem[Marsland 2015]{ref:marsland}
+\abntrefinfo{Marsland}{MARSLAND}{2015}
+{MARSLAND, S. \emph{Machine Learning An Algorithmic Perspective}. Florida,
+  Estados Unidos: Taylor and Francis, 2015.}
 
 \bibitem[MNIST 2018]{ref:MNIST}
 \abntrefinfo{MNIST}{MNIST}{2018}

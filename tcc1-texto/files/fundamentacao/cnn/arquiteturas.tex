@@ -41,7 +41,7 @@ Embora os conceitos das camadas de uma CNN estejam bem estabelecidos e sejam de 
 
 \end{figure}
 
-\paragraph{GoogLeNet} Desenvolvida pela empresa Google e vencedora do ILSVRC 2014, a arquitetura GoogLeNet possui $22$ camadas baseadas em um módulo elementar chamado \emph{Inception Module}. O processamento desses módulos ocorre de forma paralela, diferentemente do processamento sequencial das arquiteturas discutidas anteriormente. A ideia central da arquitetura GoogLeNet é paralelizar os módulos e combinar as características da saída sem se preocupar com as funções individuais de cada camada. No entanto, essa abordagem resulta em um mapa de características com muitos elementos, mas para contornar este problema, após a execução do primeiro módulo, a rede realiza uma redução de dimensionalidade utilizando uma FCL antes de continuar o processo de treinamento \cite{ref:khan}. A representação da arquitetura GoogLeNet encontra-se na Figura \ref{img:googlenet}.
+\paragraph{GoogLeNet} Desenvolvida pela empresa Google e vencedora do ILSVRC 2014, a arquitetura GoogLeNet possui $22$ camadas baseadas em um módulo elementar chamado \emph{Inception Module}. O processamento desses módulos ocorre de forma paralela, diferentemente do processamento sequencial das arquiteturas discutidas anteriormente. A ideia central desta arquitetura, também chamada de \emph{Inception}, é paralelizar os módulos e combinar as características da saída sem se preocupar com as funções individuais de cada camada. No entanto, essa abordagem resulta em um mapa de características com muitos elementos, mas para contornar este problema, após a execução do primeiro módulo, a rede realiza uma redução de dimensionalidade utilizando uma FCL antes de continuar o processo de treinamento \cite{ref:khan}. A representação da arquitetura GoogLeNet encontra-se na Figura \ref{img:googlenet}.
 
 \begin{figure}[!ht]
 	\centering
@@ -50,3 +50,5 @@ Embora os conceitos das camadas de uma CNN estejam bem estabelecidos e sejam de 
 	\includegraphics[width=0.6\textwidth]{./img/googlenet}
 
 \end{figure}
+
+\paragraph{ResNet} A \emph{Residual Network} (ResNet) é uma arquitetura desenvolvida pela Microsoft que foi a vencedora do ILSVRC 2015 reduzindo a taxa de erro em 3,6\% em cima do desempenho vencedor do ano anterior conquistado pela GoogLeNet. A principal característica da ResNet está nos chamados blocos residuais, em que a entrada original é submetida a uma função de transformação usando uma conexão direta da entrada, chamada \emph{skip identity connection}. Esta transformação que ocorre em um bloco residual é dividida em um termo de identidade (que representa a entrada) e um termo residual, o qual ajuda a evidenciar a transformação dos mapas de características residuais. No ano de 2016, a arquitetura vencedora do ILSVRC era composta de uma combinação das características das arquiteturas GoogLeNet Inception e ResNet \cite{ref:khan}.
