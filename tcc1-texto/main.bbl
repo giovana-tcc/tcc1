@@ -12,6 +12,10 @@
   Regional de Informática da Região Norte I}. Manaus, Amazonas: ERIN, 2017.
   p. 108--116.}
 
+\bibitem[Borges 2010]{ref:python}
+\abntrefinfo{Borges}{BORGES}{2010}
+{BORGES, L.~E. \emph{Python para Desenvolvedores}. [S.l.]: Novatec, 2010.}
+
 \bibitem[Braga, Carvalho e Ludermir 2007]{ref:teresa}
 \abntrefinfo{Braga, Carvalho e Ludermir}{BRAGA; CARVALHO; LUDERMIR}{2007}
 {BRAGA, A. de P.; CARVALHO, A.~P. de~Leon F.~de; LUDERMIR, T.~B. \emph{Redes
@@ -47,6 +51,11 @@
 {CHOLLET, F. \emph{Deep Learning with Python}. 1. ed. Shelter Island, New York:
   Manning, 2017.}
 
+\bibitem[Colormath 2018]{lib:colormath}
+\abntrefinfo{Colormath}{COLORMATH}{2018}
+{COLORMATH. \emph{python-colormath}. 2018.
+Dispon{\'\i}vel em: \url{https://python-colormath.readthedocs.io/en/latest/}.}
+
 \bibitem[Cybenko 1989]{ref:cybenko}
 \abntrefinfo{Cybenko}{CYBENKO}{1989}
 {CYBENKO, G. Approximation by superpositions of a sigmoidal function.
@@ -64,6 +73,16 @@ In:  CSBC. \emph{Congresso da Sociedade Brasileira de Computação}. Porto
 \abntrefinfo{Faceli et al.}{FACELI et al.}{2011}
 {FACELI, K. et al. \emph{Inteligência Artificial: Uma Abordagem de Aprendizado
   de Máquina}. 1. ed. Rio de Janeiro, Rio de Janeiro: LTC, 2011.}
+
+\bibitem[GCloud 2018]{tec:gcloud}
+\abntrefinfo{GCloud}{GCLOUD}{2018}
+{GCLOUD. \emph{Google Cloud}. 2018.
+Dispon{\'\i}vel em: \url{https://cloud.google.com/}.}
+
+\bibitem[Glob 2018]{lib:glob}
+\abntrefinfo{Glob}{GLOB}{2018}
+{GLOB. \emph{Unix style pathname pattern expansion}. 2018.
+Dispon{\'\i}vel em: \url{https://docs.python.org/3/library/glob.html}.}
 
 \bibitem[Goodfellow, Bengio e Courville 2016]{ref:goodfellow}
 \abntrefinfo{Goodfellow, Bengio e Courville}{GOODFELLOW; BENGIO;
@@ -93,11 +112,21 @@ Dispon{\'\i}vel em: \url{http://www.image-net.org/}.}
   Systems (ICTIS 2017) Volume 2}. 1. ed. [S.l.]: Springer, 2017. v.~2.  (Smart
   innovation systems and technologies 84, v.~2).}
 
+\bibitem[Keras 2018]{lib:keras}
+\abntrefinfo{Keras}{KERAS}{2018}
+{KERAS. \emph{Keras: The Python Deep Learning library}. 2018.
+Dispon{\'\i}vel em: \url{https://faroit.github.io/keras-docs/2.1.2/}.}
+
 \bibitem[Khan et al. 2018]{ref:khan}
 \abntrefinfo{Khan et al.}{KHAN et al.}{2018}
 {KHAN, S. et al. \emph{A Guide to Convolutional Neural Networks for Computer
   Vision}. 1. ed. Australia: Morgan and Claypool, 2018. v.~1.  (Synthesis
   Lectures on Computer Vision, v.~1).}
+
+\bibitem[learn 2018]{lib:scikit}
+\abntrefinfo{learn}{LEARN}{2018}
+{LEARN scikit. \emph{scikit-learn}. 2018.
+Dispon{\'\i}vel em: \url{http://scikit-learn.org/stable/index.html}.}
 
 \bibitem[Lima 2016]{ref:patrick-tcc}
 \abntrefinfo{Lima}{LIMA}{2016}
@@ -122,11 +151,27 @@ Universidade do Estado do Amazonas.}
 {MNIST. \emph{THE MNIST DATABASE of handwritten digits}. 2018.
 Dispon{\'\i}vel em: \url{http://yann.lecun.com/exdb/mnist/}.}
 
+\bibitem[NumPy 2018]{lib:numpy}
+\abntrefinfo{NumPy}{NUMPY}{2018}
+{NUMPY. \emph{NumPy}. 2018.
+Dispon{\'\i}vel em: \url{http://www.numpy.org/}.}
+
+\bibitem[Os 2018]{lib:os}
+\abntrefinfo{Os}{OS}{2018}
+{OS. \emph{Miscellaneous operating system interfaces}. 2018.
+Dispon{\'\i}vel em: \url{https://docs.python.org/3/library/os.html}.}
+
 \bibitem[Pereira et al. 2016]{ref:apl-diagnostico2}
 \abntrefinfo{Pereira et al.}{PEREIRA et al.}{2016}
 {PEREIRA, R. et al. Abordagem deep learning para classificação de lesões
   mamárias. In:  \emph{Anais do XXXVI Congresso da Sociedade Brasileira de
   Computação}. Porto Alegre, Rio Grande do Sul: CSBC, 2016. p. 2597--2600.}
+
+\bibitem[PIL 2018]{lib:pillow}
+\abntrefinfo{PIL}{PIL}{2018}
+{PIL. \emph{Pillow}. Rio de Janeiro, Rio de Janeiro: [s.n.], 2018.
+Dispon{\'\i}vel em:
+  \url{https://pillow.readthedocs.io/en/5.1.x/handbook/overview.html}.}
 
 \bibitem[Places205 2018]{ref:places205}
 \abntrefinfo{Places205}{PLACES205}{2018}
