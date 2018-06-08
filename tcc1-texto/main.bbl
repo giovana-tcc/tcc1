@@ -14,7 +14,8 @@
 
 \bibitem[Borges 2010]{ref:python}
 \abntrefinfo{Borges}{BORGES}{2010}
-{BORGES, L.~E. \emph{Python para Desenvolvedores}. [S.l.]: Novatec, 2010.}
+{BORGES, L.~E. \emph{Python para Desenvolvedores}. Rio de Janeiro, Rio de
+  Janeiro: Novatec, 2010.}
 
 \bibitem[Braga, Carvalho e Ludermir 2007]{ref:teresa}
 \abntrefinfo{Braga, Carvalho e Ludermir}{BRAGA; CARVALHO; LUDERMIR}{2007}
@@ -73,6 +74,11 @@ In:  CSBC. \emph{Congresso da Sociedade Brasileira de Computação}. Porto
 \abntrefinfo{Faceli et al.}{FACELI et al.}{2011}
 {FACELI, K. et al. \emph{Inteligência Artificial: Uma Abordagem de Aprendizado
   de Máquina}. 1. ed. Rio de Janeiro, Rio de Janeiro: LTC, 2011.}
+
+\bibitem[Galleti e Soares 2016]{ref:galleti}
+\abntrefinfo{Galleti e Soares}{GALLETI; SOARES}{2016}
+{GALLETI, L.~S.; SOARES, R.~V. \emph{Captura e tratamento de imagens}. São
+  Paulo, São Paulo: SENAI-SP, 2016.}
 
 \bibitem[GCloud 2018]{tec:gcloud}
 \abntrefinfo{GCloud}{GCLOUD}{2018}

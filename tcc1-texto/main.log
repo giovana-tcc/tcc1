@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  4 JUN 2018 21:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  8 JUN 2018 10:23
 entering extended mode
 **./main.tex
 (main.tex
@@ -1119,43 +1119,43 @@ LaTeX Font Info:    Try loading font information for U+bbm on input line 7.
 ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\bbm\ubbm.fd"
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
 )
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 15.
 <./img/neuron.jpg, id=24, 267.6399pt x 145.9854pt>
 File: ./img/neuron.jpg Graphic file (type jpg)
 <use ./img/neuron.jpg>
-Package pdftex.def Info: ./img/neuron.jpg  used on input line 15.
+Package pdftex.def Info: ./img/neuron.jpg  used on input line 17.
 (pdftex.def)             Requested size: 256.07741pt x 139.6855pt.
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 16.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 16.
-<./img/id.png, id=25, 274.02374pt x 194.22563pt>
+<./img/id.png, id=25, 433.62pt x 289.08pt>
 File: ./img/id.png Graphic file (type png)
 <use ./img/id.png>
-Package pdftex.def Info: ./img/id.png  used on input line 26.
-(pdftex.def)             Requested size: 170.71393pt x 121.00247pt.
-<./img/sigmoide.png, id=27, 265.74281pt x 186.6975pt>
+Package pdftex.def Info: ./img/id.png  used on input line 28.
+(pdftex.def)             Requested size: 170.71393pt x 113.8082pt.
+<./img/sigmoide.png, id=27, 433.62pt x 289.08pt>
 File: ./img/sigmoide.png Graphic file (type png)
 <use ./img/sigmoide.png>
-Package pdftex.def Info: ./img/sigmoide.png  used on input line 27.
-(pdftex.def)             Requested size: 170.71393pt x 119.93608pt.
-<./img/tanh.png, id=28, 274.77657pt x 186.6975pt>
+Package pdftex.def Info: ./img/sigmoide.png  used on input line 29.
+(pdftex.def)             Requested size: 170.71393pt x 113.8082pt.
+<./img/tanh.png, id=28, 433.62pt x 289.08pt>
 File: ./img/tanh.png Graphic file (type png)
 <use ./img/tanh.png>
-Package pdftex.def Info: ./img/tanh.png  used on input line 28.
-(pdftex.def)             Requested size: 170.71393pt x 115.99623pt.
-<./img/relu.png, id=29, 245.41687pt x 185.94469pt>
+Package pdftex.def Info: ./img/tanh.png  used on input line 30.
+(pdftex.def)             Requested size: 170.71393pt x 113.8082pt.
+<./img/relu.png, id=29, 433.62pt x 289.08pt>
 File: ./img/relu.png Graphic file (type png)
 <use ./img/relu.png>
-Package pdftex.def Info: ./img/relu.png  used on input line 29.
-(pdftex.def)             Requested size: 170.71393pt x 129.3489pt.
+Package pdftex.def Info: ./img/relu.png  used on input line 31.
+(pdftex.def)             Requested size: 170.71393pt x 113.8082pt.
  [5 <./img/neuron.jpg>]
 <./img/rede-mlp.png, id=40, 828.09375pt x 535.2497pt>
 File: ./img/rede-mlp.png Graphic file (type png)
 <use ./img/rede-mlp.png>
-Package pdftex.def Info: ./img/rede-mlp.png  used on input line 47.
+Package pdftex.def Info: ./img/rede-mlp.png  used on input line 49.
 (pdftex.def)             Requested size: 426.79135pt x 275.86493pt.
 
-Underfull \vbox (badness 2753) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./img/id.png> <./img/sigmoide.png> <./img/tanh.png> <./img/relu.png>]) [7 
 <./img/rede-mlp.png>]
@@ -1186,7 +1186,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <./img/ilsvrc.png, id=67, 996.72375pt x 279.29344pt>
 File: ./img/ilsvrc.png Graphic file (type png)
 <use ./img/ilsvrc.png>
-Package pdftex.def Info: ./img/ilsvrc.png  used on input line 7.
+Package pdftex.def Info: ./img/ilsvrc.png  used on input line 9.
 (pdftex.def)             Requested size: 426.79135pt x 119.59096pt.
 <./img/lenet.png, id=68, 933.4875pt x 287.57437pt>
 File: ./img/lenet.png Graphic file (type png)
@@ -1211,34 +1211,52 @@ File: ./img/googlenet.png Graphic file (type png)
 Package pdftex.def Info: ./img/googlenet.png  used on input line 50.
 (pdftex.def)             Requested size: 256.07741pt x 173.60959pt.
 ) [13 <./img/vggnet.png> <./img/googlenet.png>]
-(files/fundamentacao/transfer.tex)) (files/fundamentacao/tecnologias.tex))
-[14] (files/relacionados.tex) (files/solucao.tex (files/solucao/tarefa.tex
-<./img/aprendizado.png, id=85, 799.48688pt x 453.19313pt>
+(files/fundamentacao/transfer.tex)) (files/fundamentacao/cores.tex
+<./img/rgb.jpg, id=82, 214.6419pt x 214.6419pt>
+File: ./img/rgb.jpg Graphic file (type jpg)
+<use ./img/rgb.jpg>
+Package pdftex.def Info: ./img/rgb.jpg  used on input line 9.
+(pdftex.def)             Requested size: 128.0387pt x 128.03612pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./img/cielab.png, id=83, 292.84406pt x 264.23718pt>
+File: ./img/cielab.png Graphic file (type png)
+<use ./img/cielab.png>
+Package pdftex.def Info: ./img/cielab.png  used on input line 19.
+(pdftex.def)             Requested size: 213.39568pt x 192.55688pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (files/fundamentacao/tecnologias.tex [14] [15 <./img/rgb.jpg> <./img/cielab.p
+ng>])) (files/relacionados.tex) (files/solucao.tex (files/solucao/tarefa.tex
+<./img/aprendizado.png, id=90, 799.48688pt x 453.19313pt>
 File: ./img/aprendizado.png Graphic file (type png)
 <use ./img/aprendizado.png>
 Package pdftex.def Info: ./img/aprendizado.png  used on input line 5.
 (pdftex.def)             Requested size: 405.45047pt x 229.83229pt.
 
-[15 <./img/aprendizado.png>]) (files/solucao/dados.tex
-<./img/visaogeral.jpeg, id=89, 1994.45125pt x 989.6975pt>
-File: ./img/visaogeral.jpeg Graphic file (type jpg)
-<use ./img/visaogeral.jpeg>
-Package pdftex.def Info: ./img/visaogeral.jpeg  used on input line 7.
-(pdftex.def)             Requested size: 426.79135pt x 211.7841pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16]) (files/solucao/pre-process.tex [17 <./img/visaogeral.jpeg>]))
-(files/consideracoes.tex) (main.bbl [18] [19]) [20] (main.aux) ) 
+[16]) (files/solucao/dados.tex [17 <./img/aprendizado.png>]
+<./img/visaogeral.jpeg, id=97, 1994.45125pt x 989.6975pt>
+File: ./img/visaogeral.jpeg Graphic file (type jpg)
+<use ./img/visaogeral.jpeg>
+Package pdftex.def Info: ./img/visaogeral.jpeg  used on input line 9.
+(pdftex.def)             Requested size: 426.79135pt x 211.7841pt.
+)
+(files/solucao/pre-process.tex [18 <./img/visaogeral.jpeg>]))
+(files/consideracoes.tex) (main.bbl [19] [20]) [21] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 16420 strings out of 493303
- 312028 string characters out of 3135805
- 379108 words of memory out of 3000000
- 19510 multiletter control sequences out of 15000+200000
+ 16441 strings out of 493303
+ 312439 string characters out of 3135805
+ 379207 words of memory out of 3000000
+ 19526 multiletter control sequences out of 15000+200000
  28845 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,14n,65p,1324b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,14n,65p,1324b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/giova
 nadelucca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\giovanadelucca\AppD
 ata\Local\MiKTeX\2.9\fonts\pk\ljfour\public\bbm\dpi600\bbm12.pk><C:/Users/giova
@@ -1255,9 +1273,9 @@ type1/urw/helvetic/uhvbo8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/
 urw/times/utmb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/
 utmbi8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pf
 b><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (20 pages, 3864632 bytes).
+Output written on main.pdf (21 pages, 4131621 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
