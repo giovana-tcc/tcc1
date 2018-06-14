@@ -112,12 +112,6 @@ Dispon{\'\i}vel em: \url{https://docs.python.org/3/library/glob.html}.}
 {IMAGENET. \emph{ImageNet}. 2018.
 Dispon{\'\i}vel em: \url{http://www.image-net.org/}.}
 
-\bibitem[Joshi et al. 2017]{ref:satapathy}
-\abntrefinfo{Joshi et al.}{JOSHI et al.}{2017}
-{JOSHI et al. \emph{Information and Communication Technology for Intelligent
-  Systems (ICTIS 2017) Volume 2}. 1. ed. [S.l.]: Springer, 2017. v.~2.  (Smart
-  innovation systems and technologies 84, v.~2).}
-
 \bibitem[Keras 2018]{lib:keras}
 \abntrefinfo{Keras}{KERAS}{2018}
 {KERAS. \emph{Keras: The Python Deep Learning library}. 2018.
@@ -236,5 +230,10 @@ Washington, DC, 1961. 626~p.}
 \abntrefinfo{Zaccone e Karim}{ZACCONE; KARIM}{2018}
 {ZACCONE, G.; KARIM, M.~R. \emph{Deep Learning with TensorFlow}. Birmingham,
   West Midlands: Packt, 2018.}
+
+\bibitem[Zhang, Isola e Efros 2016]{ref:rel-zhang}
+\abntrefinfo{Zhang, Isola e Efros}{ZHANG; ISOLA; EFROS}{2016}
+{ZHANG, R.; ISOLA, P.; EFROS, A.~A. Colorful image colorization. In:
+  \emph{ECCV}. [S.l.: s.n.], 2016.}
 
 \end{thebibliography}
