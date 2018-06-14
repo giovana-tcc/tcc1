@@ -360,8 +360,6 @@ INPUT ./files/fundamentacao/tecnologias.tex
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/courier/pcrr7t.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
-INPUT ./files/relacionados.tex
-INPUT ./files/relacionados.tex
 INPUT ./files/solucao.tex
 INPUT ./files/solucao.tex
 INPUT ./files/solucao/tarefa.tex
@@ -381,8 +379,12 @@ INPUT ./files/solucao/pre-process.tex
 INPUT ./files/solucao/parametros.tex
 INPUT ./files/solucao/parametros.tex
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrb7t.tfm
+INPUT ./files/solucao/resultados.tex
+INPUT ./files/solucao/resultados.tex
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/courier/pcrb7t.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrb8r.tfm
+INPUT ./files/relacionados.tex
+INPUT ./files/relacionados.tex
 INPUT ./files/consideracoes.tex
 INPUT ./files/consideracoes.tex
 INPUT main.bbl
@@ -397,6 +399,7 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb
