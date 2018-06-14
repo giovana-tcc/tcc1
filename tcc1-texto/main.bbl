@@ -70,6 +70,12 @@ Dispon{\'\i}vel em: \url{https://python-colormath.readthedocs.io/en/latest/}.}
 In:  CSBC. \emph{Congresso da Sociedade Brasileira de Computação}. Porto
   Alegre, Rio Grande do Sul: SBC, 2017. cap.~6, p. 212--260.}
 
+\bibitem[Deshpande, Rock e Forsyth 2015]{ref:rel-deshpande}
+\abntrefinfo{Deshpande, Rock e Forsyth}{DESHPANDE; ROCK; FORSYTH}{2015}
+{DESHPANDE, A.; ROCK, J.; FORSYTH, D. Learning large-scale automatic image
+  colorization. In:  \emph{ICCV}. Urbana-Champaign, Illinois: IEEE Xplore,
+  2015.}
+
 \bibitem[Faceli et al. 2011]{ref:faceli}
 \abntrefinfo{Faceli et al.}{FACELI et al.}{2011}
 {FACELI, K. et al. \emph{Inteligência Artificial: Uma Abordagem de Aprendizado
@@ -226,6 +232,12 @@ Washington, DC, 1961. 626~p.}
   via Redes Neurais Artificiais}. São Carlos, São Paulo: Universidade de São
   Paulo, 1999.}
 
+\bibitem[Welsh, Ashikhmin e Mueller 2002]{ref:rel-welsh}
+\abntrefinfo{Welsh, Ashikhmin e Mueller}{WELSH; ASHIKHMIN; MUELLER}{2002}
+{WELSH, T.; ASHIKHMIN, M.; MUELLER, K. Transferring color to greyscale images.
+  In:  \emph{Proceedings of the 29th Annual Conference on Computer Graphics and
+  Interactive Techniques}. New York, NY, USA: ACM, 2002. p. 277--280.}
+
 \bibitem[Zaccone e Karim 2018]{ref:zaccone}
 \abntrefinfo{Zaccone e Karim}{ZACCONE; KARIM}{2018}
 {ZACCONE, G.; KARIM, M.~R. \emph{Deep Learning with TensorFlow}. Birmingham,
@@ -234,6 +246,6 @@ Washington, DC, 1961. 626~p.}
 \bibitem[Zhang, Isola e Efros 2016]{ref:rel-zhang}
 \abntrefinfo{Zhang, Isola e Efros}{ZHANG; ISOLA; EFROS}{2016}
 {ZHANG, R.; ISOLA, P.; EFROS, A.~A. Colorful image colorization. In:
-  \emph{ECCV}. [S.l.: s.n.], 2016.}
+  \emph{ECCV}. Bekerley, California: Cornell University Library, 2016.}
 
 \end{thebibliography}
