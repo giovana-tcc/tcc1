@@ -2,9 +2,9 @@ No contexto deste trabalho, o problema da colorização de uma imagem será abor
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.95\textwidth]{./img/aprendizado}
 	\caption{Detalhamento do processo de aprendizado.}
 	\label{fig:aprendizado}
+	\includegraphics[width=0.95\textwidth]{./img/aprendizado}
 \end{figure}
 
 Dada uma imagem em tons de cinza que se deseja colorir, o primeiro passo a ser realizado (Passo 1) consiste no redimensionamento da imagem de acordo com a dimensão predominante (altura ou largura), com vistas a obter uma imagem quadrada. Em seguida, para que seja fornecida como entrada para os modelos de DL, a imagem será redimensionada para $128 \times 128$ pixels (Passo 2). Após esta etapa, o espaço de cores da imagem será convertido de RGB para CIELab (Passo 3). Desta conversão, o parâmetro de luminosidade $L$ será fornecido para o modelo de DL, cujo objetivo será produzir duas matrizes com os valores de coloração $a$ e $b$ (Passo 4). Por fim, a luminosidade $L$, já conhecida, será combinada com as matrizes de coloração $a$ e $b$ produzidas, compondo uma versão colorida da imagem inicial (Passo 5).
