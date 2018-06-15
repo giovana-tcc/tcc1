@@ -1,4 +1,4 @@
-Para o Passo 4, descrito na Seção \ref{subsec:tarefa}, será considerada a abordagem de \emph{Transfer Learning}, visando aproveitar parâmetros de redes CNNs pré-treinadas com \emph{datasets} massivos, especialmente o ImageNet. Para tanto, considerando a utilização do \emph{framework} \texttt{keras}, foi consultada a biblioteca de modelos previamente treinados, disponíveis no módulo \texttt{applications}. Como resultado, foram identificadas as arquiteturas canônicas e suas características elencadas na Tabela \ref{tab:cnns}.
+Para o Passo 4, descrito na Seção \ref{subsec:tarefa}, será considerada a abordagem de TL, visando aproveitar parâmetros de redes CNNs pré-treinadas com \emph{datasets} massivos, especialmente o ImageNet. Para tanto, considerando a utilização do \emph{framework} \texttt{keras}, foi consultada a biblioteca de modelos previamente treinados, disponíveis no módulo \texttt{applications}. Como resultado, foram identificadas as arquiteturas canônicas e suas características elencadas na Tabela \ref{tab:cnns}.
 
 \begin{table}[!ht]
 	\caption{Arquiteturas canônicas e suas características disponíveis no módulo \texttt{keras.applications}.}
@@ -22,6 +22,6 @@ Para o Passo 4, descrito na Seção \ref{subsec:tarefa}, será considerada a abo
 
 É interessante notar que todos estes modelos disponíveis foram pré-treinados com a base de dados do ImageNet. Considerando a quantidade de imagens e a variedade desses exemplos, acredita-se que estes pesos podem contribuir positivamente para o problema da coloração dada a transferência de aprendizado.
 
-Levando em conta os recursos computacionais disponíveis em nuvem para este projeto e o tempo de processamento, duas CNNs, a VGG16 e ResNet50, disponíveis no \texttt{keras.applications} serão ajustadas perante \emph{Transfer Learning} para a tarefa de coloração proposta. Havendo tempo posterior disponível, outras arquiteturas também serão contempladas.
+Levando em conta os recursos computacionais disponíveis em nuvem para este projeto e o tempo de processamento, duas CNNs, a VGG16 e ResNet50, disponíveis no \texttt{keras.applications} serão ajustadas perante TL para a tarefa de coloração proposta. Havendo tempo posterior disponível, outras arquiteturas também serão contempladas.
 
 Dessas redes pré-treinadas, as últimas camadas serão substituídas por camadas completamente conectadas com saída compatível com as matrizes $a$ e $b$ de coloração. Eventuais re-treinos serão efetuados para ajuste de interconexão dessa nova camada. Serão consideradas $100$ épocas para o treinamento dos modelos propostos e os demais parâmetros terão seus valores padrões preservados.
