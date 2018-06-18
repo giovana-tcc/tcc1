@@ -1,0 +1,82 @@
+\documentclass[dvipsnames,table,mathserif]{beamer} % Definição do tipo de arquivo
+
+\usepackage[T1]{fontenc}      %---------------------------------%
+\usepackage[latin1]{inputenc} % Para língua portuguesa          %
+\usepackage[brazil]{babel}    %---------------------------------%
+\usepackage{times}
+\usepackage[framesassubsections]{beamerprosper} % opções: email, institution,
+\usepackage{algorithmic}
+\usepackage{graphicx,url}
+\usepackage{enumerate}
+\usepackage{amsmath,amsfonts,amsthm,amssymb}
+\usepackage{epsfig}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{scalefnt}
+\input{Qcircuit}
+\usepackage[round]{natbib}
+\bibpunct{(}{)}{;}{a}{}{;}
+
+%\newcommand{\newblock}{}
+\usetheme{CambridgeUS}
+\usecolortheme{whale}
+%\renewcommand{\sfdefault}{times}
+\setbeamercolor{alerted text}{fg=blue!80!black}
+\setbeamercolor{frametitle}{fg=blue!80!black}
+\setbeamercolor{block title}{bg=blue!90!black,fg=white}
+\beamertemplatetransparentcovereddynamicmedium
+
+\DeclareMathOperator{\QFT}{QFT}
+
+\def\one{\mathbbm{1}}
+
+\titlegraphic{\includegraphics[width=.15\textwidth,height=.10\textheight]{./img/uea-15anos}}
+
+\title[]{\textbf{Métodos para Aproximação de $\pi$ na Plataforma Raspberry Pi}\\ Apresentação parcial PAIC 2015/2016}
+
+\author[Janderson Lira]{Janderson Lira, Elloá B. Guedes\\\email{\{janderson.nlira, elloa.uea\}@gmail.com}}
+\institute[IQuanta, UFCG] % (optional, but mostly needed)
+{
+  Escola Superior de Tecnologia\\
+  Universidade do Estado do Amazonas\\
+  Manaus -- Amazonas -- Brasil
+}
+
+\begin{document}
+\selectlanguage{brazil}
+
+\maketitle % Título da apresentação
+
+\begin{frame}{Outline}
+\tableofcontents
+\end{frame}
+
+\section{Motivação}
+\input{./files/motivacao}
+
+\section{Métodos para aproximação de $\pi$}
+\input{./files/qft}
+
+\section{Raspberry Pi}
+\input{./files/ftsimulator}
+
+\section{Resultados obtidos}
+
+\section{Considerações Finais}
+\input{./files/considera}
+
+\section{Referências}
+\begin{frame}[allowframebreaks]
+\frametitle{Referências Bibliográficas}
+\bibliographystyle{apalike} % estilo de bibliografia
+\bibliography{ref} % arquivos com as entradas bib.
+\end{frame}
+
+\titlegraphic{\includegraphics[width=.15\textwidth,height=.10\textheight]{./img/iquanta-black-logo}}
+\setbeamertemplate{logo}{}
+
+
+\maketitle
+
+
+\end{document}

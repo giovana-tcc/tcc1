@@ -1,0 +1,107 @@
+\documentclass[dvipsnames,table,mathserif]{beamer} % Definição do tipo de arquivo
+
+\usepackage[T1]{fontenc}      %---------------------------------%
+\usepackage[latin1]{inputenc} % Para língua portuguesa          %
+\usepackage[brazil]{babel}    %---------------------------------%
+\usepackage{times}
+\usepackage[framesassubsections]{beamerprosper} % opções: email, institution,
+\usepackage{enumerate}
+\usepackage{amsmath,amsfonts,amsthm,amssymb}
+\usepackage{epsfig}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{scalefnt}
+\usepackage[round]{natbib}
+\usepackage{movie15}
+\usepackage{hyperref}
+\bibpunct{(}{)}{;}{a}{}{;}
+
+
+\setbeamertemplate{caption}[numbered]
+
+\usetheme{CambridgeUS}
+\usecolortheme{whale}
+\setbeamercolor{alerted text}{fg=green!30!black}
+\setbeamercolor{frametitle}{fg=green!30!black}
+
+\setbeamercolor{caption name}{fg=green!30!black, bg=gray!40!white}
+\setbeamercolor{palette primary}{fg=green!30!black, bg=gray!40!white}
+\setbeamercolor{palette secondary}{fg=white, bg=green!30!black}
+\setbeamercolor{palette tertiary}{fg=white, bg=green!30!black}
+\setbeamercolor*{item}{fg=green!30!black}
+\setbeamercolor{block title}{bg=green!30!black,fg=white}
+\setbeamercolor{block body example}{fg=green!50!black,bg=white}
+\setbeamercolor{block title example}{bg=green!50!black,fg=white}
+\setbeamercolor{block body alerted}{fg=red!50!black,bg=white}
+\setbeamercolor{block title alerted}{bg=red!50!black,fg=white}
+\beamertemplatetransparentcovereddynamicmedium
+
+\newcommand\Tstrut{\rule{0pt}{2ex}}
+
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>
+    \frametitle{Agenda - Seção \thesection}
+    \tableofcontents[currentsection]
+  \end{frame}
+}
+
+\titlegraphic{\includegraphics[width=.10\textwidth,height=.15\textheight]{./img/uea}}
+
+\title[]{\textbf{Colorização de Imagens com Deep Learning}\\ \small Defesa do Trabalho de Conclusão de Curso I}
+
+\author[Giovana de Lucca]{Giovana de Lucca \\ Orientadora: Elloá B. Guedes\\\email{\{giovanaadelucca, elloa.uea\}@gmail.com}}
+\institute[EST, UEA] % (optional, but mostly needed)
+{
+  Escola Superior de Tecnologia\\
+  Universidade do Estado do Amazonas\\
+  Manaus -- Amazonas -- Brasil
+}
+
+\begin{document}
+\selectlanguage{brazil}
+
+\maketitle % Título da apresentação
+
+\begin{frame}{Agenda}
+\tableofcontents
+\end{frame}
+
+\section{Introdução}
+\input{./files/introducao}
+
+\section{Objetivos}
+\input{./files/introducao/objetivos}
+
+\section{Justificativa}
+\input{./files/introducao/justificativa}
+
+\section{Metodologia}
+\input{./files/introducao/metodologia}
+
+\section{Cronograma}
+\input{./files/introducao/cronograma}
+
+\section{Fundamentação Teórica}
+\input{./files/fundamentacao}
+
+\section{Solução Proposta}
+\input{./files/solucao}
+
+\section{Resultados Parciais}
+\input{./files/resultados}
+
+\section{Considerações Parciais}
+\input{./files/consideracoes}
+
+\section{Referências}
+\input{./files/referencias}
+
+\titlegraphic{\includegraphics[width=.10\textwidth,height=.15\textheight]{./img/uea}}
+\setbeamertemplate{logo}{}
+
+
+\maketitle
+
+
+\end{document}

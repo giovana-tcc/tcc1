@@ -1,0 +1,59 @@
+\begin{thebibliography}{}
+
+\bibitem[Araújo and Guedes, 2015]{Nicoli:relatorio}
+Araújo, N. and Guedes, E. (2015).
+\newblock Análise da qualidade de autômatos celulares para geração de números
+  pseudo-aleatórios.
+\newblock Master's thesis, Universidade do Estado do Amazonas, Escola Superior
+  de Tecnologia.
+
+\bibitem[Costa, 2007]{Daniel:python}
+Costa, D.~G. (2007).
+\newblock {\em Administração de Redes com scripts: Bash Script, Python e
+  VBScript}.
+\newblock Brasport.
+
+\bibitem[da~Silva, 2007]{Jose:automatos}
+da~Silva, J. M.~C. (2007).
+\newblock {\em MEGADIVERSIDADE: Modelagem ambiental e conservação da
+  biodiversidade}.
+\newblock Conservação Internacional.
+
+\bibitem[Harwani, 2012]{Harwani:PyQt}
+Harwani, B. (2012).
+\newblock {\em Introduction to Python$^\circledR$ Programming and Developing
+  GUI Applications with PyQT}.
+\newblock Stacy L. Hiquet.
+
+\bibitem[Machado, 2010]{Nuno:Qt}
+Machado, N. M.~S. (2010).
+\newblock Framework cnoti3d.
+\newblock Master's thesis, Instituto Politécnico de Coimbra.
+
+\bibitem[Melotti, 2009]{Gledson:automatos}
+Melotti, G. (2009).
+\newblock Aplicação de autômatos celulares em sistemas complexos: Um estudo de
+  caso em espalhamento de epidemias.
+\newblock Master's thesis, Universidade Federal de Minas Gerais.
+
+\bibitem[Preece et~al., 2002]{PRS:interface}
+Preece, J., Rogers, Y., and Sharp, H. (2002).
+\newblock {\em Interaction design: beyond human-computer interaction}.
+\newblock J. Wiley and Sons.
+
+\bibitem[{Python}, 2015]{Applications:python}
+{Python} (2015).
+\newblock Applications for python.
+\newblock https://www.python.org/about/apps/.
+
+\bibitem[Serson, 2007]{Roberto:interface}
+Serson, R.~R. (2007).
+\newblock {\em Programação orientada a objetos com Java 6}.
+\newblock Brasport.
+
+\bibitem[Wolfram, 2002]{Wolfram:automatos}
+Wolfram, S. (2002).
+\newblock {\em A new kind of science}.
+\newblock Wolfram media Champaign.
+
+\end{thebibliography}
