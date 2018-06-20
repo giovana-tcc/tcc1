@@ -1,22 +1,49 @@
-\begin{frame}{Considerações Finais}
-\begin{itemize}
-\item \alert{Implementação} de autômatos celulares bidimensionais
-\begin{itemize}
-\item Regra geral, totalísticos e totalísticos externos
-\end{itemize}
-\ \ \newline
-\item Remodelagem da \alert{interface gráfica} para a ferramenta CABuilder
-\begin{itemize}
-\item Utilização da biblioteca PyQt
-\item Funcionalidades preservadas
-\item Fluxo de interação com o usuário mais simples e intuitivo
-\item Acréscimo da geração de autômatos em forma de animação
-\end{itemize}
-\ \ \newline
-\item \alert{Análise estatística} das sequências produzidas pelos autômatos celulares bidimensionais
-\ \newline
-\item CABuilder disponível no repositório: \url{http://goo.gl/wLE1jk}
-\ \ \newline
-\ \ \newline
-\end{itemize}
+\begin{frame}{Considerações Parciais}
+	\begin{itemize}
+		\item Colorização de imagens utilizando modelos de redes neurais convolucionais e técnicas de \emph{Deep Learning}
+		\bigskip
+		\item Imagens no espaço de cores CIELab
+		\begin{itemize}
+			\item Canal $L$ como entrada das redes
+			\item Canais $a$ e $b$ como saída das redes
+		\end{itemize}
+		\bigskip
+		\item Rede VGGNet com $1\%$ da base de dados e MSE de 261,17
+		\bigskip
+		\item Continuidade: treinamentos de outros modelos
+		\begin{itemize}
+			\item Base de dados completa
+			\item Arquiteturas VGGNet e ResNet
+			\item $100$ épocas
+			\item Métrica MSE
+		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Cronograma Parcial}
+\begin{table}[!ht]
+	\centering
+	\tiny
+	\begin{tabular}{p{3.4cm}lp{0.1cm} c p{0.1cm}cp{0.1cm} c p{0.1cm}cp{0.1cm} c p{0.1cm}cp{0.1cm} c p{0.1cm}cp{0.1cm} c p{0.1cm}cp{0.1cm} c }
+		\toprule
+		& & & & & & \textbf{2018} & & & & & \Tstrut \\
+		& \textbf{02} & \textbf{03} & \textbf{04} & \textbf{05} & \textbf{06} & \textbf{07} & \textbf{08} & \textbf{09} & \textbf{10} & \textbf{11} & \textbf{12}  \Tstrut \\
+		\midrule
+		\textbf{\alert{Estudo dos conceitos teóricos relacionados à \textit{Machine Learning}}} & \textbf{\alert{x}} & \textbf{\alert{x}} & \textbf{\alert{x}} & \textbf{\alert{x}} & & & & & & & \Tstrut \\
+		\textbf{\alert{Estudo do ferramental tecnológico para elaboração do projeto}} & \textbf{\alert{x}} & \textbf{\alert{x}} & \textbf{\alert{x}} & \textbf{\alert{x}} & & & & & & & \Tstrut \\
+		\textbf{\alert{Consolidação da base de dados}} & & & \textbf{\alert{x}} & \textbf{\alert{x}} & & & & & & & \Tstrut \\
+		\textbf{\alert{Especificação das arquiteturas canônicas de redes neurais convolucionais}} & & & \textbf{\alert{x}} & & & & & & & & \Tstrut \\
+		\textbf{\alert{Aplicação das técnidas de \textit{Transfer Learning} nas redes neurais convolucionais identificadas}} & & & & \textbf{\alert{x}} & & & & & & & \Tstrut \\
+		\textbf{Treinamento das redes neurais convolucionais com os exemplos da base de dados} & & & & x & x & x & x & & & & \Tstrut \\
+		\textbf{Testes das redes e comparação de métricas de desempenho} & & & & & x & x & x & x & & & \Tstrut \\
+		\textbf{Análise dos resultados obtidos} & & & & & & & & & x & x & x \Tstrut \\
+		\textbf{Escrita da proposta do trabalho} & x & x & x & x & x & & & & & & \Tstrut \\
+		\textbf{Defesa da proposta do trabalho} & & & & & x & & & & & & \Tstrut \\
+		\textbf{Escrita do trabalho final} & & & & & & x & x & x & x & x & x \Tstrut \\
+		\textbf{Defesa do trabalho final} & & & & & & & & & & & x\Tstrut \\
+		\bottomrule
+	\end{tabular}
+	
+	\label{tab:cronograma}
+\end{table}
 \end{frame}

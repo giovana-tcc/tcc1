@@ -1,0 +1,125 @@
+\begin{frame}{Processo de Aprendizagem de Máquina}
+	\begin{itemize}
+	\item Problema abordado como uma \alert{tarefa de regressão}
+	\medskip
+	\item Processo de Aprendizagem de Máquina segundo Marsland:
+	\end{itemize}
+	\begin{figure}[!ht]
+		\centering
+		\label{img:aprendizado}
+		\includegraphics[width=0.8\textwidth]{./img/aprendizado}
+	\end{figure}
+\end{frame}
+
+\begin{frame}{Processo de Aprendizagem de Máquina}
+	\begin{itemize}
+		\item Espaço de cores CIELab
+		\begin{itemize}
+			\item Canal $L$ indica luminosidade responsável pela ilustração
+			\item Canais $a$ e $b$ eixos de cromaticidade responsáveis pela coloração
+		\end{itemize}
+	\end{itemize}
+	\begin{figure}[!ht]
+		\centering
+		\label{img:cielab}
+		\includegraphics[width=0.45\textwidth]{./img/cielab}
+	\end{figure}
+\end{frame}
+
+\begin{frame}{Processo de Aprendizagem de Máquina}
+	\begin{itemize}
+		\item Treinamentos sucessivos para ajuste de pesos
+		\bigskip
+		\item Arquiteturas VGGNet e ResNet
+		\bigskip
+		\item Diferentes parâmetros e hiperparâmetros
+		\bigskip
+		\item Método \emph{holdout} de validação cruzada 
+		\begin{itemize}
+			\item $70\%$ dos dados para treinamento
+			\item $30\%$ dos dados para testes
+		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Métrica de Desempenho}
+\begin{itemize}
+	\item Métrica Erro Quadrático Médio (MSE), definido como:
+	\begin{equation}
+	\nonumber
+	\textrm{MSE} = \frac{1}{n}\sum_{i=1}^n (y_i - \hat{y}_i)^{2} \label{eq:mse}
+	\end{equation}
+	\begin{itemize}
+		\item $y_i$ é o valor real esperado para o exemplo $i$
+		\smallskip
+		\item  $\hat{y}_i$ é o valor previsto pelo modelo para o exemplo $i$
+		\smallskip
+		\item  $n$ é o número de amostras presentes no conjunto de dados
+	\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}{Dados Experimentais}
+	\begin{itemize}
+		\item Conjunto de validação da categoria \emph{Fine-grained classification} do ILSVRC $2012$
+		\bigskip
+		\item Quantidade total: $50$ mil imagens
+		\bigskip
+		\item Imagens coletadas do \emph{Flickr} e outras plataformas similares
+		\bigskip
+		\item Quantidade de imagens favorável para o treinamento em questão
+		\item Variedade de classes representativa ao cenário de colorização 
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Dados Experimentais}
+	\begin{figure}[!ht]
+		\centering
+		\label{img:visaogeral}
+		\includegraphics[width=0.9\textwidth]{./img/visaogeral}
+	\end{figure}
+\end{frame}
+
+\begin{frame}{Limpeza e Pré-Processamento da Base de Dados}
+	\begin{itemize}
+		\item Procedimento necessário para estruturação da base de dados sem que haja sobrecarga computacional
+		\medskip
+		\item Redimensionamento das imagens
+		\begin{itemize}
+			\item Tamanhos iguais de altura e largura
+			\item Dimensão de $128 \times 128$ pixels
+		\end{itemize}
+		\medskip
+		\item Selecionar imagens do espaço de cores RGB
+		\begin{itemize}
+			\item Eliminar imagens com outros espaços de cores
+			\item Eliminar imagens em tons de cinza
+		\end{itemize}
+		\medskip
+		\item Aproximadamente $900$ imagens foram descartadas
+		\medskip
+		\item Imagens convertidas para o espaço de cores CIELab
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Modelos e Parâmetros Considerados}
+	\begin{itemize}
+		\item Abordagem \emph{transfer leraning}
+		\medskip
+		\item Utilização do \emph{framework} Keras
+		\begin{itemize}
+			\item Pré-treinamento com base de dados do ImageNet
+			\item Arquiteturas canônicas disponíveis
+		\end{itemize}
+		\medskip
+		\item Utilização das redes VGGNet16 e ResNet50
+		\medskip
+		\item Últimas camadas substituídas por camadas completamente conectadas adaptadas ao problema
+		\medskip
+		\item Eventuais re-treinos para ajustes
+		\medskip
+		\item $100$ épocas
+		\item Demias parâmetros preservados
+	\end{itemize}
+\end{frame}

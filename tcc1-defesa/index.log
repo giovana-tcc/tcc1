@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  18 JUN 2018 15:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  20 JUN 2018 00:47
 entering extended mode
 **./index.tex
 (index.tex
@@ -816,7 +816,11 @@ ty")
 ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\beamer\beamercolorthemebeaver.st
 y"))
 ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\beamer\beamercolorthemewhale.sty
-") (index.aux)
+") (index.aux
+
+LaTeX Warning: Label `tab:cronograma' multiply defined.
+
+)
 \openout1 = `index.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -1005,55 +1009,35 @@ img/uea.png>] (index.toc) [2
 
 ] [5
 
-]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 35.
-
-
-Package natbib Warning: Citation `Nuno:Qt' on page 6 undefined on input line 35
-.
-
-
-Package natbib Warning: Citation `Harwani:PyQt' on page 6 undefined on input li
-ne 35.
-
-
-Overfull \vbox (0.72641pt too high) detected at line 35
- []
-
-[6
+] [6
 
 ]) (index.toc) [7
 
 ] (files/introducao/objetivos.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
  [8
 
 ] [9
 
-]) (index.toc)
-[10
-
-] (files/introducao/justificativa.tex) (index.toc) [11
+]) (index.toc) [10
 
 ]
-(files/introducao/metodologia.tex
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 3.
+(files/introducao/justificativa.tex [11
 
-("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
-File: omsphv.fd 
-)
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
- [12
+]) (index.toc) [12
 
-])
-(index.toc) [13
+]
+(files/introducao/metodologia.tex [13
 
-] (files/introducao/cronograma.tex
+] [14
+
+]) (index.toc) [15
+
+]
+(files/introducao/cronograma.tex
 LaTeX Font Info:    Try loading font information for U+msa on input line 27.
 
 ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -1125,34 +1109,151 @@ Underfull \hbox (badness 2318) in paragraph at lines 27--27
 []|\T1/phv/b/n/6 Treinamento das re-des neu-rais
  []
 
-[14
+[16
 
-]) (index.toc) [15
+]) (index.toc) [17
 
-] (files/fundamentacao.tex) (index.toc) [16
+] (files/fundamentacao.tex
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 17.
+ [18
 
 ]
-(files/solucao.tex) (index.toc) [17
+<./img/lenet.png, id=652, 933.4875pt x 287.57437pt>
+File: ./img/lenet.png Graphic file (type png)
+<use ./img/lenet.png>
+Package pdftex.def Info: ./img/lenet.png  used on input line 25.
+(pdftex.def)             Requested size: 342.43532pt x 105.49252pt.
+ [19
 
-] (files/resultados.tex) (index.toc)
-[18
+ <./img/lenet.png>]
+[20
 
-] (files/consideracoes.tex
-Overfull \vbox (7.22151pt too high) detected at line 22
+]
+<./img/vggnet.png, id=709, 1025.33063pt x 420.06938pt>
+File: ./img/vggnet.png Graphic file (type png)
+<use ./img/vggnet.png>
+Package pdftex.def Info: ./img/vggnet.png  used on input line 50.
+(pdftex.def)             Requested size: 342.43532pt x 140.28986pt.
+ [21
+
+ <./img/vggnet.png>]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 66.
+ [22
+
+]) (index.toc) [23
+
+] (files/solucao.tex
+<./img/aprendizado.png, id=801, 966.61125pt x 516.42938pt>
+File: ./img/aprendizado.png Graphic file (type png)
+<use ./img/aprendizado.png>
+Package pdftex.def Info: ./img/aprendizado.png  used on input line 12.
+(pdftex.def)             Requested size: 273.9493pt x 146.36436pt.
+ [24
+
+ <./img/aprendizado.png>]
+<./img/cielab.png, id=831, 292.84406pt x 264.23718pt>
+File: ./img/cielab.png Graphic file (type png)
+<use ./img/cielab.png>
+Package pdftex.def Info: ./img/cielab.png  used on input line 27.
+(pdftex.def)             Requested size: 154.09483pt x 139.0451pt.
+ [25
+
+ <./img/cielab.png>] [26
+
+] [27
+
+] [28
+
+]
+<./img/visaogeral.jpeg, id=949, 1994.45125pt x 989.6975pt>
+File: ./img/visaogeral.jpeg Graphic file (type jpg)
+<use ./img/visaogeral.jpeg>
+Package pdftex.def Info: ./img/visaogeral.jpeg  used on input line 82.
+(pdftex.def)             Requested size: 308.18968pt x 152.91827pt.
+ [29
+
+ <./img/visaogeral.jpeg>] [30
+
+] [31
+
+]) (index.toc) [32
+
+] (files/resultados.tex [33
+
+]) (index.toc)
+[34
+
+] (files/consideracoes.tex [35
+
+]
+Overfull \hbox (10.49837pt too wide) in paragraph at lines 49--49
+[]|\T1/phv/b/n/6 2018| 
  []
 
-[19
 
-]) (index.toc) [20
+Overfull \hbox (3.82646pt too wide) in paragraph at lines 49--49
+[]|\T1/phv/b/n/6 03| 
+ []
 
-] (files/referencias.tex [21
+
+Overfull \hbox (3.82646pt too wide) in paragraph at lines 49--49
+[]|\T1/phv/b/n/6 05| 
+ []
+
+
+Overfull \hbox (3.82646pt too wide) in paragraph at lines 49--49
+[]|\T1/phv/b/n/6 07| 
+ []
+
+
+Overfull \hbox (3.82646pt too wide) in paragraph at lines 49--49
+[]|\T1/phv/b/n/6 09| 
+ []
+
+
+Overfull \hbox (3.82646pt too wide) in paragraph at lines 49--49
+[]|\T1/phv/b/n/6 11| 
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 49--49
+[]|[]\T1/phv/b/n/6 Estudo do fer-ra-men-tal tec-no-ló-
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 49--49
+[]|[]\T1/phv/b/n/6 Especificação das ar-qui-te-tu-ras
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 49--49
+\T1/phv/b/sl/6 fer Le-ar-ning \T1/phv/b/n/6 nas re-des neu-rais
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 49--49
+[]|\T1/phv/b/n/6 Treinamento das re-des neu-rais
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{tab:cronogram
+a}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 \end{frame}
+                 [36
+
+]) (index.toc) [37
+
+] (files/referencias.tex [38
 
 ])
 File: ./img/uea.png Graphic file (type png)
 <use ./img/uea.png>
 Package pdftex.def Info: ./img/uea.png  used on input line 104.
 (pdftex.def)             Requested size: 34.24405pt x 36.8833pt.
- [22
+ [39
 
 ]
 \tf@nav=\write6
@@ -1164,9 +1265,6 @@ Package pdftex.def Info: ./img/uea.png  used on input line 104.
 \tf@snm=\write8
 \openout8 = `index.snm'.
 
-
-
-Package natbib Warning: There were undefined citations.
 
 
 Package movie15 Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -1181,25 +1279,36 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
 Package rerunfilecheck Info: File `index.out' has not changed.
 (rerunfilecheck)             Checksum: E744FCECDB866D487D883664555A322F;534.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 20238 strings out of 493303
- 377339 string characters out of 3135805
- 516436 words of memory out of 3000000
- 23190 multiletter control sequences out of 15000+200000
- 60210 words of font info for 72 fonts, out of 3000000 for 9000
+ 20358 strings out of 493303
+ 378820 string characters out of 3135805
+ 517442 words of memory out of 3000000
+ 23255 multiletter control sequences out of 15000+200000
+ 83024 words of font info for 93 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,15n,73p,774b,773s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,15n,73p,774b,729s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/giovanadelucca/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/gio
-vanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/giov
-anadelucca/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/giovanadeluc
-ca/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/giovanadelucca/MiKT
-eX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9
-/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/
-type1/urw/helvetic/uhvro8a.pfb>
-Output written on index.pdf (22 pages, 274977 bytes).
+vanadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/giov
+anadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/giova
+nadelucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/giovana
+delucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/giovanadel
+ucca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/giovanadelu
+cca/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/giovanadelucc
+a/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/giovanadelucca/MiKTeX
+ 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fo
+nts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/ty
+pe1/urw/helvetic/uhvr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw
+/helvetic/uhvro8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times
+/utmr8a.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.p
+fb>
+Output written on index.pdf (39 pages, 1721389 bytes).
 PDF statistics:
- 832 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1342 PDF objects out of 1440 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
+ 231 words of extra memory for PDF output out of 10000 (max. 10000000)
 
