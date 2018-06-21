@@ -4,21 +4,25 @@
 		\medskip
 		\item Cada camada possui uma funcionalidade básica específica e produz um \alert{mapa de características}
 		\medskip
-		\item Realização de operações de convolução
+		\pause
+		\item Realização de operações de \alert{convolução}
 		\begin{itemize}
 			\item Extração de características por meio de um filtro
 			\item Parâmetros: extensão espacial, \emph{stride}, \emph{zero-padding}, etc
 		\end{itemize}
 		\medskip
-		\item Camada \emph{pooling} responsável por produzir um mapa de características condensado
+		\pause
+		\item Camada \alert{\emph{pooling}} responsável por produzir um mapa de características condensado
 		\medskip
-		\item Camadas completamente conectadas baseadas nos conceitos de uma rede \alert{\emph{Multilayer Perceptron}}
+		\pause
+		\item Camadas \alert{completamente conectadas} baseadas nos conceitos de uma rede \emph{Multilayer Perceptron}
 	\end{itemize}
 \end{frame}
 
 \begin{frame}{Redes Neurais Convolucionais}
 	\begin{figure}[!ht]
 		\centering
+		\caption{Arquitetura LeNet.}
 		\label{img:lenet}
 		\includegraphics[width=1\textwidth]{./img/lenet}
 	\end{figure}
@@ -26,17 +30,19 @@
 
 \begin{frame}{Arquiteturas Canônicas de Redes Neurais Convolucionais}
 	\begin{itemize}
-		\item Desafio anual desenvolvido pelo projeto ImageNet
-		\item \emph{ImageNet Large Scale Visual Recognition Challenge} (ILSVRC)
+		\item Desafio anual desenvolvido pelo projeto \alert{ImageNet}
+		\item \alert{\emph{ImageNet Large Scale Visual Recognition Challenge}} (ILSVRC)
 		\bigskip
 		\item Têm promovido algumas arquiteturas de CNNs bem sucedidas em determinados problemas
 		\bigskip
+		\pause
 		\item ISLVRC 2014
 		\begin{itemize}
 			\item 2º lugar: VGGNet - pequenos filtros
 			\item 1º lugar: GoogLeNet - \emph{Inception Module}
 		\end{itemize}
 		\bigskip
+		\pause
 		\item Vencedora do ILSVRC 2015: ResNet - blocos residuais
 	\end{itemize}
 \end{frame}
@@ -45,6 +51,7 @@
 	\begin{figure}[!ht]
 		\centering
 		\label{img:vggnet}
+		\caption{Arquitetura VGGNet.}
 		\includegraphics[width=1\textwidth]{./img/vggnet}
 	\end{figure}
 \end{frame}
@@ -55,12 +62,14 @@
 		\bigskip
 		\item Modelos treinados com um conjunto genérico de dados conseguem capturar características universais
 		\bigskip
+		\pause
 		\item Treinamentos com conjuntos de dados bastante conhecidos
 		\begin{itemize}
 			\item ImageNet
 			\item Places50
 		\end{itemize}
 		\bigskip
+		\pause
 		\item Modificação na camada de saída para obter o aprendizado desejado
 	\end{itemize}
 \end{frame}

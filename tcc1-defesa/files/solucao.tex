@@ -2,7 +2,7 @@
 	\begin{itemize}
 	\item Problema abordado como uma \alert{tarefa de regressão}
 	\medskip
-	\item Processo de Aprendizagem de Máquina segundo Marsland:
+	\item Processo de Aprendizagem de Máquina:
 	\end{itemize}
 	\begin{figure}[!ht]
 		\centering
@@ -30,11 +30,11 @@
 	\begin{itemize}
 		\item Treinamentos sucessivos para ajuste de pesos
 		\bigskip
-		\item Arquiteturas VGGNet e ResNet
+		\item Arquiteturas \alert{VGGNet} e \alert{ResNet}
 		\bigskip
 		\item Diferentes parâmetros e hiperparâmetros
 		\bigskip
-		\item Método \emph{holdout} de validação cruzada 
+		\item Método \alert{\emph{holdout}} de validação cruzada 
 		\begin{itemize}
 			\item $70\%$ dos dados para treinamento
 			\item $30\%$ dos dados para testes
@@ -44,7 +44,7 @@
 
 \begin{frame}{Métrica de Desempenho}
 \begin{itemize}
-	\item Métrica Erro Quadrático Médio (MSE), definido como:
+	\item Métrica \alert{Erro Quadrático Médio} (MSE), definido como:
 	\begin{equation}
 	\nonumber
 	\textrm{MSE} = \frac{1}{n}\sum_{i=1}^n (y_i - \hat{y}_i)^{2} \label{eq:mse}
@@ -64,10 +64,11 @@
 	\begin{itemize}
 		\item Conjunto de validação da categoria \emph{Fine-grained classification} do ILSVRC $2012$
 		\bigskip
-		\item Quantidade total: $50$ mil imagens
+		\item Quantidade total: \alert{$50$ mil imagens}
 		\bigskip
 		\item Imagens coletadas do \emph{Flickr} e outras plataformas similares
 		\bigskip
+		\pause
 		\item Quantidade de imagens favorável para o treinamento em questão
 		\item Variedade de classes representativa ao cenário de colorização 
 	\end{itemize}
@@ -76,6 +77,7 @@
 \begin{frame}{Dados Experimentais}
 	\begin{figure}[!ht]
 		\centering
+		\caption{Visão geral do conjunto de dados.}
 		\label{img:visaogeral}
 		\includegraphics[width=0.9\textwidth]{./img/visaogeral}
 	\end{figure}
@@ -85,12 +87,14 @@
 	\begin{itemize}
 		\item Procedimento necessário para estruturação da base de dados sem que haja sobrecarga computacional
 		\medskip
+		\pause
 		\item Redimensionamento das imagens
 		\begin{itemize}
 			\item Tamanhos iguais de altura e largura
 			\item Dimensão de $128 \times 128$ pixels
 		\end{itemize}
 		\medskip
+		\pause
 		\item Selecionar imagens do espaço de cores RGB
 		\begin{itemize}
 			\item Eliminar imagens com outros espaços de cores
@@ -99,27 +103,29 @@
 		\medskip
 		\item Aproximadamente $900$ imagens foram descartadas
 		\medskip
+		\pause
 		\item Imagens convertidas para o espaço de cores CIELab
 	\end{itemize}
 \end{frame}
 
 \begin{frame}{Modelos e Parâmetros Considerados}
 	\begin{itemize}
-		\item Abordagem \emph{transfer leraning}
+		\item Abordagem \alert{\emph{transfer leraning}}
 		\medskip
-		\item Utilização do \emph{framework} Keras
+		\item Utilização do \alert{\emph{framework} Keras}
 		\begin{itemize}
-			\item Pré-treinamento com base de dados do ImageNet
 			\item Arquiteturas canônicas disponíveis
+			\item Pré-treinamento com base de dados do ImageNet
 		\end{itemize}
 		\medskip
-		\item Utilização das redes VGGNet16 e ResNet50
+		\item Utilização das redes \alert{VGGNet16} e \alert{ResNet50}
 		\medskip
 		\item Últimas camadas substituídas por camadas completamente conectadas adaptadas ao problema
 		\medskip
 		\item Eventuais re-treinos para ajustes
 		\medskip
+		\pause
 		\item $100$ épocas
-		\item Demias parâmetros preservados
+		\item Demais parâmetros preservados
 	\end{itemize}
 \end{frame}
