@@ -1,0 +1,230 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Araujo et al. 2017]{ref:apl-clima2}
+\abntrefinfo{Araujo et al.}{ARAUJO et al.}{2017}
+{ARAUJO, N. et al. Previsão do volume mensal de precipitações em manaus,
+  amazonas com redes neurais aritificiais. In:  \emph{Anais do IV Encontro
+  Regional de Informática da Região Norte I}. Manaus, Amazonas: ERIN, 2017. p.
+  108--116.}
+
+\bibitem[Borges 2010]{ref:python}
+\abntrefinfo{Borges}{BORGES}{2010}
+{BORGES, L.~E. \emph{Python para Desenvolvedores}. Rio de Janeiro, Rio de
+  Janeiro: Novatec, 2010.}
+
+\bibitem[Braga, Carvalho e Ludermir 2007]{ref:teresa}
+\abntrefinfo{Braga, Carvalho e Ludermir}{BRAGA; CARVALHO; LUDERMIR}{2007}
+{BRAGA, A. de P.; CARVALHO, A.~P. de~Leon F.~de; LUDERMIR, T.~B. \emph{Redes
+  Neurais Artificiais: Teoria e Aplicações}. 2. ed. Rio de Janeiro, Rio de
+  Janeiro: LTC, 2007.}
+
+\bibitem[Buduma 2017]{ref:buduma}
+\abntrefinfo{Buduma}{BUDUMA}{2017}
+{BUDUMA, N. \emph{Fundamentals of Deep Learning: Designing Next-Generation
+  Machine Intelligence Algorithms}. 1. ed. Sebastopol, California: O'Reilly
+  Media, 2017.}
+
+\bibitem[Caexeta 2008]{ref:apl-jogos}
+\abntrefinfo{Caexeta}{CAEXETA}{2008}
+{CAEXETA, G.~S. \emph{VisionDraughts - Um Sistema de Aprendizagem de Jogos de
+  Damas em Redes Neurais, Diferenças Temporais, Algoritmos Eficientes de Busca
+  em Árvore e Informações Perfeitas Contidas em Bases de Dados}. Uberlândia,
+  Minas Gerais: Universidade Federal de Uberlândia, 2008.}
+
+\bibitem[Carvalho 2006]{ref:apl-caracteres}
+\abntrefinfo{Carvalho}{CARVALHO}{2006}
+{CARVALHO, C. E.~S. de. \emph{Reconhecimento de Caracteres Manuscritos
+  Utilizando Redes Neurais Artificiais}. Brasília, Distrito Federal: Centro
+  Universitário de Brasília, 2006.}
+
+\bibitem[Chollet 2017]{ref:chollet}
+\abntrefinfo{Chollet}{CHOLLET}{2017}
+{CHOLLET, F. \emph{Deep Learning with Python}. 1. ed. Shelter Island, New York:
+  Manning, 2017.}
+
+\bibitem[Colormath 2018]{lib:colormath}
+\abntrefinfo{Colormath}{COLORMATH}{2018}
+{COLORMATH. \emph{python-colormath}. 2018.
+Disponível em \url{https://python-colormath.readthedocs.io/en/latest/}. Acesso
+  em \today.}
+
+\bibitem[Cybenko 1989]{ref:cybenko}
+\abntrefinfo{Cybenko}{CYBENKO}{1989}
+{CYBENKO, G. Approximation by superpositions of a sigmoidal function.
+\emph{Mathematics of Control, Signals, and Systems}, v.~2, p. 303--314,
+  December 1989.}
+
+\bibitem[Delicato, Pires e Silveira 2017]{ref:JAI-2017}
+\abntrefinfo{Delicato, Pires e Silveira}{DELICATO; PIRES; SILVEIRA}{2017}
+{DELICATO, F.; PIRES, P.; SILVEIRA, I. Jornada de {A}tualização em
+  {I}nformática 2017.
+In:  CSBC. \emph{Congresso da Sociedade Brasileira de Computação}. Porto
+  Alegre, Rio Grande do Sul: SBC, 2017. cap.~6, p. 212--260.}
+
+\bibitem[Faceli et al. 2011]{ref:faceli}
+\abntrefinfo{Faceli et al.}{FACELI et al.}{2011}
+{FACELI, K. et al. \emph{Inteligência Artificial: Uma Abordagem de Aprendizado
+  de Máquina}. 1. ed. Rio de Janeiro, Rio de Janeiro: LTC, 2011.}
+
+\bibitem[Galleti e Soares 2016]{ref:galleti}
+\abntrefinfo{Galleti e Soares}{GALLETI; SOARES}{2016}
+{GALLETI, L.~S.; SOARES, R.~V. \emph{Captura e tratamento de imagens}. São
+  Paulo, São Paulo: SENAI-SP, 2016.}
+
+\bibitem[GCloud 2018]{tec:gcloud}
+\abntrefinfo{GCloud}{GCLOUD}{2018}
+{GCLOUD. \emph{Google Cloud}. 2018.
+Disponível em \url{https://cloud.google.com/}. Acesso em \today.}
+
+\bibitem[Glob 2018]{lib:glob}
+\abntrefinfo{Glob}{GLOB}{2018}
+{GLOB. \emph{Unix style pathname pattern expansion}. 2018.
+Disponível em \url{https://docs.python.org/3/library/glob.html}. Acesso em
+  \today.}
+
+\bibitem[Goodfellow, Bengio e Courville 2016]{ref:goodfellow}
+\abntrefinfo{Goodfellow, Bengio e Courville}{GOODFELLOW; BENGIO;
+  COURVILLE}{2016}
+{GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. \emph{Deep Learning}. 1. ed.
+  Cambridge, Massachsetts: The MIT Press, 2016. v.~1.  (Adaptive computation
+  and machine learning series, v.~1).}
+
+\bibitem[Gulli e Pal 2017]{ref:gulli}
+\abntrefinfo{Gulli e Pal}{GULLI; PAL}{2017}
+{GULLI, A.; PAL, S. \emph{Deep Learning with Keras}. 1. ed. Birmingham, West
+  Midlands: Packt, 2017.}
+
+\bibitem[Haykin 2009]{ref:haykin}
+\abntrefinfo{Haykin}{HAYKIN}{2009}
+{HAYKIN, S.~S. \emph{Neural Networks and Learning Machines}. 3. ed. Upper
+  Saddle River, New Jersey: Perason, 2009.}
+
+\bibitem[ImageNet 2018]{ref:image-net}
+\abntrefinfo{ImageNet}{IMAGENET}{2018}
+{IMAGENET. \emph{ImageNet}. 2018.
+Disponível em \url{http://www.image-net.org/}. Acesso em \today.}
+
+\bibitem[Keras 2018]{lib:keras}
+\abntrefinfo{Keras}{KERAS}{2018}
+{KERAS. \emph{Keras: The Python Deep Learning library}. 2018.
+Disponível em \url{https://faroit.github.io/keras-docs/2.1.2/}. Acesso em
+  \today.}
+
+\bibitem[Khan et al. 2018]{ref:khan}
+\abntrefinfo{Khan et al.}{KHAN et al.}{2018}
+{KHAN, S. et al. \emph{A Guide to Convolutional Neural Networks for Computer
+  Vision}. 1. ed. Australia: Morgan and Claypool, 2018. v.~1.  (Synthesis
+  Lectures on Computer Vision, v.~1).}
+
+\bibitem[learn 2018]{lib:scikit}
+\abntrefinfo{learn}{LEARN}{2018}
+{LEARN scikit. \emph{scikit-learn}. 2018.
+Disponível em \url{http://scikit-learn.org/stable/index.html}. Acesso em
+  \today.}
+
+\bibitem[Lima 2016]{ref:patrick-tcc}
+\abntrefinfo{Lima}{LIMA}{2016}
+{LIMA, P.~M. de. \emph{Redes Neurais para Predição de Séries Temporais de
+  Precipitação em Manaus, Amazonas}. 2016. Trabalho de Conclusão de Curso da
+  Universidade do Estado do Amazonas.
+Universidade do Estado do Amazonas.}
+
+\bibitem[Lu et al. 2017]{ref:yang}
+\abntrefinfo{Lu et al.}{LU et al.}{2017}
+{LU, L. et al. \emph{Deep Learning and Convolutional Neural Networks for
+  Medical Image Computing}. Cham, Switzerland: Springer, 2017.  (Advances in
+  Computer Vision and Pattern Recognition).}
+
+\bibitem[MNIST 2018]{ref:MNIST}
+\abntrefinfo{MNIST}{MNIST}{2018}
+{MNIST. \emph{THE MNIST DATABASE of handwritten digits}. 2018.
+Disponível em \url{http://yann.lecun.com/exdb/mnist/}. Acesso em \today.}
+
+\bibitem[NumPy 2018]{lib:numpy}
+\abntrefinfo{NumPy}{NUMPY}{2018}
+{NUMPY. \emph{NumPy}. 2018.
+Disponível em \url{http://www.numpy.org/}. Acesso em \today.}
+
+\bibitem[Os 2018]{lib:os}
+\abntrefinfo{Os}{OS}{2018}
+{OS. \emph{Miscellaneous operating system interfaces}. 2018.
+Disponível em \url{https://docs.python.org/3/library/os.html}. Acesso em
+  \today.}
+
+\bibitem[Pereira et al. 2016]{ref:apl-diagnostico2}
+\abntrefinfo{Pereira et al.}{PEREIRA et al.}{2016}
+{PEREIRA, R. et al. Abordagem deep learning para classificação de lesões
+  mamárias. In:  \emph{Anais do XXXVI Congresso da Sociedade Brasileira de
+  Computação}. Porto Alegre, Rio Grande do Sul: CSBC, 2016. p. 2597--2600.}
+
+\bibitem[PIL 2018]{lib:pillow}
+\abntrefinfo{PIL}{PIL}{2018}
+{PIL. \emph{Pillow}. 2018.
+Disponível em
+  \url{https://pillow.readthedocs.io/en/5.1.x/handbook/overview.html}. Acesso
+  em \today.}
+
+\bibitem[Places205 2018]{ref:places205}
+\abntrefinfo{Places205}{PLACES205}{2018}
+{PLACES205. \emph{Places: the scene recognition database}. 2018.
+Disponível em \url{http://places.csail.mit.edu/}. Acesso em \today.}
+
+\bibitem[Rojas 1996]{ref:rojas}
+\abntrefinfo{Rojas}{ROJAS}{1996}
+{ROJAS, R. \emph{Neural Networks: A Systematic Introduction}. 1. ed.
+  Heidelberg, Berlin: Springer, 1996.}
+
+\bibitem[Rosenblat 1961]{ref:rosenblatt}
+\abntrefinfo{Rosenblat}{ROSENBLAT}{1961}
+{ROSENBLAT, F. \emph{Principles of Neurodynamics}: Perceptrons and the theory
+  of brain mechanisms.
+Washington, DC, 1961. 626~p.}
+
+\bibitem[Russakovsky et al. 2015]{ILSVRC}
+\abntrefinfo{Russakovsky et al.}{RUSSAKOVSKY et al.}{2015}
+{RUSSAKOVSKY, O. et al. {ImageNet Large Scale Visual Recognition Challenge}.
+\emph{International Journal of Computer Vision (IJCV)}, v.~115, n.~3, p.
+  211--252, 2015.}
+
+\bibitem[Sewak, Karim e Pujari 2018]{ref:sewak}
+\abntrefinfo{Sewak, Karim e Pujari}{SEWAK; KARIM; PUJARI}{2018}
+{SEWAK, M.; KARIM, R.; PUJARI, P. \emph{Pratical Convolutional Neural
+  Networks}. 1. ed. Birmingham, West Midlands: Packt, 2018.}
+
+\bibitem[Silva et al. 2017]{ref:meu-artigo}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2017}
+{SILVA, A.~G. et al. Classificação de expressões faciais negativas na língua
+  brasileira de sinais. In:  \emph{Anais do IV Encontro Regional de Informática
+  da Região Norte I}. Manaus, Amazonas: ERIN, 2017. p. 80--88.}
+
+\bibitem[Silva et al. 2016]{ref:apl-diagnostico1}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2016}
+{SILVA, G. da et al. Classification of malignancy of lung nodules in ct images
+  using convolutional neural network. In:  \emph{Anais do XXXVI Congresso da
+  Sociedade Brasileira de Computação}. Porto Alegre, Rio Grande do Sul: CSBC,
+  2016. p. 2481--2489.}
+
+\bibitem[Sousa et al. 2017]{ref:apl-clima1}
+\abntrefinfo{Sousa et al.}{SOUSA et al.}{2017}
+{SOUSA, R. et al. Redes neurais artificais aplicadas à previsão antecipada de
+  precipitações na região central de manaus. In:  \emph{Anais do IV Encontro
+  Regional de Informática da Região Norte I}. Manaus, Amazonas: ERIN, 2017. p.
+  89--97.}
+
+\bibitem[Tinos 1999]{ref:apl-robotica}
+\abntrefinfo{Tinos}{TINOS}{1999}
+{TINOS, R. \emph{Detecção e Diagnóstico de Falhas em Robôs Manipuladores via
+  Redes Neurais Artificiais}. São Carlos, São Paulo: Universidade de São Paulo,
+  1999.}
+
+\bibitem[Zaccone e Karim 2018]{ref:zaccone}
+\abntrefinfo{Zaccone e Karim}{ZACCONE; KARIM}{2018}
+{ZACCONE, G.; KARIM, M.~R. \emph{Deep Learning with TensorFlow}. Birmingham,
+  West Midlands: Packt, 2018.}
+
+\end{thebibliography}

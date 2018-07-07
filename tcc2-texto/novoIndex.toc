@@ -1,0 +1,22 @@
+\babel@toc {brazil}{}
+\contentsline {chapter}{Lista de Tabelas}{vi}
+\contentsline {chapter}{Lista de Figuras}{viii}
+\contentsline {chapter}{Lista de C\'{o}digos}{viii}
+\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{1}
+\contentsline {section}{\numberline {1.1}Objetivos}{3}
+\contentsline {section}{\numberline {1.2}Justificativa}{4}
+\contentsline {section}{\numberline {1.3}Metodologia}{4}
+\contentsline {section}{\numberline {1.4}Cronograma}{5}
+\contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{7}
+\contentsline {section}{\numberline {2.1}Redes Neurais Artificiais}{7}
+\contentsline {section}{\numberline {2.2}\textit {Deep Learning}}{12}
+\contentsline {subsection}{\numberline {2.2.1}Redes Neurais Convolucionais}{12}
+\contentsline {subsection}{\numberline {2.2.2}Arquiteturas Can\^onicas de Redes Neurais Convolucionais}{15}
+\contentsline {paragraph}{LeNet}{16}
+\contentsline {paragraph}{AlexNet}{16}
+\contentsline {paragraph}{VGGNet}{17}
+\contentsline {paragraph}{GoogLeNet}{18}
+\contentsline {paragraph}{ResNet}{19}
+\contentsline {subsection}{\numberline {2.2.3}\textit {Transfer Learning}}{19}
+\contentsline {section}{\numberline {2.3}Espa\c cos de Cores RGB e CIELab}{20}
+\contentsline {section}{\numberline {2.4}Tecnologias Utilizadas}{21}

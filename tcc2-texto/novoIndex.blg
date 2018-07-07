@@ -1,0 +1,38 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: novoIndex.aux
+The style file: abntex2-alf.bst
+Database file #1: abntex2-options.bib
+Database file #2: ref.bib
+Warning--entry type for "ref:apl-caracteres" isn't style-file defined
+--line 132 of file ref.bib
+Warning--entry type for "ref:apl-robotica" isn't style-file defined
+--line 141 of file ref.bib
+Warning--entry type for "ref:apl-jogos" isn't style-file defined
+--line 149 of file ref.bib
+Warning--entry type for "ref:MNIST" isn't style-file defined
+--line 231 of file ref.bib
+Warning--entry type for "ref:image-net" isn't style-file defined
+--line 239 of file ref.bib
+Warning--entry type for "ref:places205" isn't style-file defined
+--line 247 of file ref.bib
+Warning--entry type for "lib:pillow" isn't style-file defined
+--line 300 of file ref.bib
+Warning--entry type for "lib:numpy" isn't style-file defined
+--line 308 of file ref.bib
+Warning--entry type for "lib:colormath" isn't style-file defined
+--line 316 of file ref.bib
+Warning--entry type for "lib:os" isn't style-file defined
+--line 324 of file ref.bib
+Warning--entry type for "lib:glob" isn't style-file defined
+--line 332 of file ref.bib
+Warning--entry type for "lib:scikit" isn't style-file defined
+--line 340 of file ref.bib
+Warning--entry type for "lib:keras" isn't style-file defined
+--line 348 of file ref.bib
+Warning--entry type for "tec:gcloud" isn't style-file defined
+--line 364 of file ref.bib
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+(There were 14 warnings)

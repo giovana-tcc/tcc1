@@ -1,0 +1,20 @@
+\babel@toc {brazil}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Neur\^onio artificial: a combina\c c\~ao linear das entradas \emph {x} ponderadas pelos pesos \emph {w} \'e transformada pela fun\c c\~ao de ativa\c c\~ao \emph {f} na sa\IeC {\'\i }da \emph {y}.\relax }}{8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Exemplos de diferentes fun\c c\~oes de ativa\c c\~ao.\relax }}{9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Fun\c c\~ao identidade. }}}{9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Fun\c c\~ao sigm\'oide.}}}{9}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Fun\c c\~ao tangente hiperb\'olica. }}}{9}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Fun\c c\~ao retificada linear.}}}{9}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Papel desempenhado pelos neur\^onios das diferentes camadas de uma rede MLP. Fonte: \cite {ref:faceli}.\relax }}{10}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Exemplo de um processo de convolu\c c\~ao aplicado em uma entrada de tamanho $5\times 5$ e um filtro de tamanho $2\times 2$. Fonte: \cite {ref:khan}.\relax }}{14}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Exemplo de mapas de caracter\IeC {\'\i }sticas em uma CNN aplicados a um problema de classifica\c c\~ao de imagens. Fonte: \cite {ref:khan}.\relax }}{14}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Disposi\c c\~ao de camadas em uma CNN. Fonte: \cite {ref:gulli}.\relax }}{15}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Desempenhos alcan\c cados do ILSVRC entre os anos de 2010 e 2014.\relax }}{16}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Arquitetura LeNet de CNN. Fonte: \cite {ref:khan}.\relax }}{17}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Arquitetura da AlexNet. Fonte: \cite {ref:khan}.\relax }}{17}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Arquitetura VGGNet. Fonte: \cite {ref:khan}.\relax }}{18}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Arquitetura GoogLeNet. Fonte: \cite {ref:khan}.\relax }}{19}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces S\IeC {\'\i }ntese aditiva do espa\c co de cores RGB. Fonte: \cite {ref:galleti}.\relax }}{21}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Representa\c c\~ao gr\'afica do espa\c co de cores CIELab. Fonte: \cite {ref:galleti}.\relax }}{21}

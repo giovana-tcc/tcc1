@@ -1,0 +1,1083 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  6 JUL 2018 21:01
+entering extended mode
+**./novoIndex.tex
+(novoIndex.tex
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (config.tex
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ae\ae.sty"
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 105.
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/01/24 3.17 The Babel package
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/01/24 3.17 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/01/24 3.17 Babel common definitions
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/01/24 3.17 Babel switching mechanism
+)
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+\bbl@dirlevel=\count89
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\a4wide\a4wide.sty"
+Package: a4wide 1994/08/30
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ntgclass\a4.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\comment\comment.sty"
+\CommentStream=\write3
+
+Excluding comment 'comment')
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count90
+\LTcapwidth=\dimen106
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count91
+\LT@rows=\count92
+\c@LT@tables=\count93
+\c@LT@chunks=\count94
+\LT@p@ftn=\toks17
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count95
+\float@exts=\toks18
+\float@box=\box30
+\@float@everytoks=\toks19
+\@floatcapt=\box31
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\fancyvrb\fancyvrb.sty"
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count96
+\FV@InFile=\read1
+\FV@TabBox=\box32
+\c@FancyVerbLine=\count97
+\FV@StepNumber=\count98
+\FV@OutFile=\write4
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip47
+\f@nch@O@elh=\skip48
+\f@nch@O@erh=\skip49
+\f@nch@O@olh=\skip50
+\f@nch@O@orh=\skip51
+\f@nch@O@elf=\skip52
+\f@nch@O@erf=\skip53
+\f@nch@O@olf=\skip54
+\f@nch@O@orf=\skip55
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen107
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen108
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip10
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks21
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks22
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks23
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\textcase\textcase.sty"
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ltxmisc\anysize.sty"
+Package: anysize 1994/08/13 1.0 Contributed LaTeX2e package
+
+Package: `anysize' 1.0 <1994/08/13>
+\@Leftmargin=\dimen116
+\@Rightmargin=\dimen117
+\@Topmargin=\dimen118
+\@Bottommargin=\dimen119
+) ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen120
+\lightrulewidth=\dimen121
+\cmidrulewidth=\dimen122
+\belowrulesep=\dimen123
+\belowbottomsep=\dimen124
+\aboverulesep=\dimen125
+\abovetopsep=\dimen126
+\cmidrulesep=\dimen127
+\cmidrulekern=\dimen128
+\defaultaddspace=\dimen129
+\@cmidla=\count111
+\@cmidlb=\count112
+\@aboverulesep=\dimen130
+\@belowrulesep=\dimen131
+\@thisruleclass=\count113
+\@lastruleclass=\count114
+\@thisrulewidth=\dimen132
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen133
+\captionmargin@=\dimen134
+\captionwidth=\dimen135
+\caption@tempdima=\dimen136
+\caption@indent=\dimen137
+\caption@parindent=\dimen138
+\caption@hangindent=\dimen139
+)
+\c@ContinuedFloat=\count115
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+))
+\c@KVtest=\count116
+\sf@farskip=\skip59
+\sf@captopadj=\dimen140
+\sf@capskip=\skip60
+\sf@nearskip=\skip61
+\c@subfigure=\count117
+\c@subfigure@save=\count118
+\c@lofdepth=\count119
+\c@subtable=\count120
+\c@subtable@save=\count121
+\c@lotdepth=\count122
+\sf@top=\skip62
+\sf@bottom=\skip63
+)
+(abntex2cite.sty
+Package: abntex2cite 2015/04/28 v1.9.5 abnTeX2
+ ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count123
+\calc@Bcount=\count124
+\calc@Adimen=\dimen141
+\calc@Bdimen=\dimen142
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count125
+\calc@Cskip=\skip66
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\abntex2\abntex2abrev.sty")
+\minimumbiblabelwidth=\skip67
+\ABCIauxlen=\skip68
+\c@ABCIaux=\count126
+\c@ABCImax=\count127
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+\biblabelsep=\skip69
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+LaTeX Info: Redefining \citeonline on input line 677.
+\ABCItoken=\toks25
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count128
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.t
+ex"
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-l
+ists.tex"))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.de
+f"
+\pgfutil@abb=\box35
+ ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+ ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.te
+x"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+"
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.
+code.tex"
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen145
+\pgf@y=\dimen146
+\pgf@xa=\dimen147
+\pgf@ya=\dimen148
+\pgf@xb=\dimen149
+\pgf@yb=\dimen150
+\pgf@xc=\dimen151
+\pgf@yc=\dimen152
+\w@pgf@writea=\write5
+\r@pgf@reada=\read2
+\c@pgf@counta=\count129
+\c@pgf@countb=\count130
+\c@pgf@countc=\count131
+\c@pgf@countd=\count132
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.
+def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-
+pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath
+.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count133
+\pgfsyssoftpath@bigbuffer@items=\count134
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol
+.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.te
+x"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+ ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex"
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.te
+x"
+\pgfmath@dimen=\dimen153
+\pgfmath@count=\count135
+\pgfmath@box=\box36
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code
+.tex"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basi
+c.code.tex")
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trig
+onometric.code.tex")
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.rand
+om.code.tex")
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comp
+arison.code.tex")
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base
+.code.tex")
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.roun
+d.code.tex")
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc
+.code.tex")
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.inte
+gerarithmetics.code.tex")))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+"
+\c@pgfmathroundto@lastzeros=\count136
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.c
+ode.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen154
+\pgf@picmaxx=\dimen155
+\pgf@picminy=\dimen156
+\pgf@picmaxy=\dimen157
+\pgf@pathminx=\dimen158
+\pgf@pathmaxx=\dimen159
+\pgf@pathminy=\dimen160
+\pgf@pathmaxy=\dimen161
+\pgf@xx=\dimen162
+\pgf@xy=\dimen163
+\pgf@yx=\dimen164
+\pgf@yy=\dimen165
+\pgf@zx=\dimen166
+\pgf@zy=\dimen167
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathcons
+truct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen168
+\pgf@path@lasty=\dimen169
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusag
+e.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen170
+\pgf@shorten@start@additional=\dimen171
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.c
+ode.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box37
+\pgf@hbox=\box38
+\pgf@layerbox@main=\box39
+\pgf@picture@serial@count=\count137
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphics
+tate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen172
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransfor
+mations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen173
+\pgf@pt@y=\dimen174
+\pgf@pt@temp=\dimen175
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.co
+de.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.
+code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathproc
+essing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.c
+ode.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen176
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.co
+de.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen177
+\pgf@sys@shading@range@num=\count138
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.co
+de.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal
+.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box40
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.c
+ode.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretranspar
+ency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns
+.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.co
+de.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box41
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code
+.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-versio
+n-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen178
+\pgf@nodesepend=\dimen179
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-versio
+n-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+")) ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen180
+\pgffor@skip=\dimen181
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.co
+de.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplotha
+ndlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count139
+\pgfplotmarksize=\dimen182
+)
+\tikz@lastx=\dimen183
+\tikz@lasty=\dimen184
+\tikz@lastxsaved=\dimen185
+\tikz@lastysaved=\dimen186
+\tikzleveldistance=\dimen187
+\tikzsiblingdistance=\dimen188
+\tikz@figbox=\box42
+\tikz@figbox@bg=\box43
+\tikz@tempbox=\box44
+\tikz@tempbox@bg=\box45
+\tikztreelevel=\count140
+\tikznumberofchildren=\count141
+\tikznumberofcurrentchild=\count142
+\tikz@fig@count=\count143
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.co
+de.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count144
+\pgfmatrixcurrentcolumn=\count145
+\pgf@matrix@numberofcolumns=\count146
+)
+\tikz@expandcount=\count147
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librari
+es\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librari
+es\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+\c@@todonotes@numberoftodonotes=\count148
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\bbm\bbm.sty"
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+\@float@every@codigo=\toks40
+\c@codigo=\count149
+)
+(source/folhaRosto.tex) (novoIndex.aux)
+\openout1 = `novoIndex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count150
+\scratchdimen=\dimen189
+\scratchbox=\box46
+\nofMPsegments=\count151
+\nofMParguments=\count152
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count153
+\MPscratchDim=\dimen190
+\MPnumerator=\count154
+\makeMPintoPDFobject=\count155
+\everyMPtoPDFconversion=\toks42
+) ("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+ABD: EveryShipout initializing macros
+Underfull \hbox (badness 2073) in paragraph at lines 24--24
+\T1/aer/m/n/12 de Com-pu-ta-ção, da Es-cola Su-pe-rior de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+
+ []
+
+[1
+
+{C:/Users/giovanadelucca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(source/fichaCatalografica.tex
+Overfull \hbox (38.89902pt too wide) in paragraph at lines 48--49
+ [] 
+ []
+
+[2]) (source/folhaAprovacao.tex
+Underfull \hbox (badness 2073) in paragraph at lines 14--19
+\T1/aer/m/n/12 de Com-pu-ta-ção, da Es-cola Su-pe-rior de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 33--29
+
+ []
+
+[3] (files/resumo.tex
+LaTeX Font Info:    Try loading font information for OMS+aer on input line 11.
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ae\omsaer.fd"
+File: omsaer.fd 1999/12/27
+)
+LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+) [4]
+(files/abstract.tex) [5] (novoIndex.toc)
+\tf@toc=\write6
+\openout6 = `novoIndex.toc'.
+
+ [6
+
+] (novoIndex.lot)
+\tf@lot=\write7
+\openout7 = `novoIndex.lot'.
+
+ [7
+
+] (novoIndex.lof)
+\tf@lof=\write8
+\openout8 = `novoIndex.lof'.
+
+ [8
+
+] (novoIndex.lop)
+\tf@lop=\write9
+\openout9 = `novoIndex.lop'.
+
+ [9
+
+] (source/inicioCapitulos.tex
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 7.
+
+) (files/introducao.tex
+Cap\'{\i }tulo 1.
+
+Overfull \hbox (8.23611pt too wide) in paragraph at lines 3--3
+[][][][]\T1/aer/m/n/6 contextualização  
+ []
+
+
+Overfull \hbox (8.23611pt too wide) in paragraph at lines 3--3
+[][][][]\T1/aer/m/n/6 contextualização  
+ []
+
+
+Overfull \hbox (8.23611pt too wide) in paragraph at lines 3--3
+[][][][]\T1/aer/m/n/6 contextualização  
+ []
+
+
+Overfull \hbox (8.23611pt too wide) in paragraph at lines 3--3
+[][][][]\T1/aer/m/n/6 contextualização  
+ []
+
+[1
+
+
+] [2]
+
+LaTeX Warning: Reference `subsec:organizacao' on page 3 undefined on input line
+ 18.
+
+(files/introducao/objetivos.tex) (files/introducao/justificativa.tex [3])
+(files/introducao/metodologia.tex [4]) (files/introducao/cronograma.tex
+Overfull \hbox (17.2695pt too wide) in paragraph at lines 9--9
+[]\T1/aer/bx/n/10 2018| 
+ []
+
+
+Overfull \hbox (5.78952pt too wide) in paragraph at lines 10--10
+[]\T1/aer/bx/n/10 03| 
+ []
+
+
+Overfull \hbox (5.78952pt too wide) in paragraph at lines 10--10
+[]\T1/aer/bx/n/10 05| 
+ []
+
+
+Overfull \hbox (5.78952pt too wide) in paragraph at lines 10--10
+[]\T1/aer/bx/n/10 07| 
+ []
+
+
+Overfull \hbox (5.78952pt too wide) in paragraph at lines 10--10
+[]\T1/aer/bx/n/10 09| 
+ []
+
+
+Overfull \hbox (5.78952pt too wide) in paragraph at lines 10--10
+[]\T1/aer/bx/n/10 11| 
+ []
+
+)) (files/fundamentacao.tex [5] [6]
+Cap\'{\i }tulo 2.
+(files/fundamentacao/rna.tex
+LaTeX Font Info:    Try loading font information for U+bbm on input line 7.
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\bbm\ubbm.fd"
+File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
+) [7
+
+]
+<./img/neuron.jpg, id=66, 267.6399pt x 145.9854pt>
+File: ./img/neuron.jpg Graphic file (type jpg)
+<use ./img/neuron.jpg>
+Package pdftex.def Info: ./img/neuron.jpg  used on input line 17.
+(pdftex.def)             Requested size: 290.22107pt x 158.31009pt.
+<./img/id.png, id=67, 433.62pt x 289.08pt>
+File: ./img/id.png Graphic file (type png)
+<use ./img/id.png>
+Package pdftex.def Info: ./img/id.png  used on input line 28.
+(pdftex.def)             Requested size: 193.47578pt x 128.98645pt.
+<./img/sigmoide.png, id=69, 433.62pt x 289.08pt>
+File: ./img/sigmoide.png Graphic file (type png)
+<use ./img/sigmoide.png>
+Package pdftex.def Info: ./img/sigmoide.png  used on input line 29.
+(pdftex.def)             Requested size: 193.47578pt x 128.98645pt.
+<./img/tanh.png, id=70, 433.62pt x 289.08pt>
+File: ./img/tanh.png Graphic file (type png)
+<use ./img/tanh.png>
+Package pdftex.def Info: ./img/tanh.png  used on input line 30.
+(pdftex.def)             Requested size: 193.47578pt x 128.98645pt.
+<./img/relu.png, id=71, 433.62pt x 289.08pt>
+File: ./img/relu.png Graphic file (type png)
+<use ./img/relu.png>
+Package pdftex.def Info: ./img/relu.png  used on input line 31.
+(pdftex.def)             Requested size: 193.47578pt x 128.98645pt.
+ [8 <./img/neuron.jpg>] [9 <./img/id.png> <./img/sigmoide.png> <./img/tanh.png>
+ <./img/relu.png>]
+<./img/rede-mlp.png, id=86, 828.09375pt x 535.2497pt>
+File: ./img/rede-mlp.png Graphic file (type png)
+<use ./img/rede-mlp.png>
+Package pdftex.def Info: ./img/rede-mlp.png  used on input line 49.
+(pdftex.def)             Requested size: 483.69687pt x 312.65019pt.
+ [10 <./img/rede-mlp.png>]) (files/fundamentacao/deep.tex [11]
+(files/fundamentacao/cnn.tex [12]
+<./img/convolucao.png, id=98, 944.02687pt x 567.62062pt>
+File: ./img/convolucao.png Graphic file (type png)
+<use ./img/convolucao.png>
+Package pdftex.def Info: ./img/convolucao.png  used on input line 13.
+(pdftex.def)             Requested size: 435.32422pt x 261.74957pt.
+<./img/convolutions.png, id=99, 970.62625pt x 286.06876pt>
+File: ./img/convolutions.png Graphic file (type png)
+<use ./img/convolutions.png>
+Package pdftex.def Info: ./img/convolutions.png  used on input line 21.
+(pdftex.def)             Requested size: 435.32422pt x 128.30197pt.
+ [13] [14 <./img/convolucao.png> <./img/convolutions.png>]
+<./img/cnn.png, id=107, 1067.99pt x 338.26375pt>
+File: ./img/cnn.png Graphic file (type png)
+<use ./img/cnn.png>
+Package pdftex.def Info: ./img/cnn.png  used on input line 32.
+(pdftex.def)             Requested size: 435.32422pt x 137.87868pt.
+) (files/fundamentacao/cnn/arquiteturas.tex [15 <./img/cnn.png>]
+<./img/ilsvrc.png, id=112, 996.72375pt x 279.29344pt>
+File: ./img/ilsvrc.png Graphic file (type png)
+<use ./img/ilsvrc.png>
+Package pdftex.def Info: ./img/ilsvrc.png  used on input line 9.
+(pdftex.def)             Requested size: 483.69687pt x 135.53386pt.
+<./img/lenet.png, id=113, 933.4875pt x 287.57437pt>
+File: ./img/lenet.png Graphic file (type png)
+<use ./img/lenet.png>
+Package pdftex.def Info: ./img/lenet.png  used on input line 21.
+(pdftex.def)             Requested size: 483.69687pt x 149.00858pt.
+
+[16 <./img/ilsvrc.png>]
+<./img/alexnet.png, id=118, 980.16188pt x 435.12563pt>
+File: ./img/alexnet.png Graphic file (type png)
+<use ./img/alexnet.png>
+Package pdftex.def Info: ./img/alexnet.png  used on input line 31.
+(pdftex.def)             Requested size: 483.69687pt x 214.72722pt.
+ [17 <./img/lenet.png> <./img/alexnet.png>]
+<./img/vggnet.png, id=122, 1025.33063pt x 420.06938pt>
+File: ./img/vggnet.png Graphic file (type png)
+<use ./img/vggnet.png>
+Package pdftex.def Info: ./img/vggnet.png  used on input line 40.
+(pdftex.def)             Requested size: 483.69687pt x 198.16335pt.
+<./img/googlenet.png, id=123, 444.15938pt x 301.125pt>
+File: ./img/googlenet.png Graphic file (type png)
+<use ./img/googlenet.png>
+Package pdftex.def Info: ./img/googlenet.png  used on input line 50.
+(pdftex.def)             Requested size: 290.22107pt x 196.75815pt.
+) [18 <./img/vggnet.png>] (files/fundamentacao/transfer.tex [19 <./img/googlene
+t.png>]))
+(files/fundamentacao/cores.tex
+<./img/rgb.jpg, id=130, 214.6419pt x 214.6419pt>
+File: ./img/rgb.jpg Graphic file (type jpg)
+<use ./img/rgb.jpg>
+Package pdftex.def Info: ./img/rgb.jpg  used on input line 9.
+(pdftex.def)             Requested size: 145.11053pt x 145.10956pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[20]
+<./img/cielab.png, id=134, 292.84406pt x 264.23718pt>
+File: ./img/cielab.png Graphic file (type png)
+<use ./img/cielab.png>
+Package pdftex.def Info: ./img/cielab.png  used on input line 19.
+(pdftex.def)             Requested size: 193.47578pt x 174.58253pt.
+) (files/fundamentacao/tecnologias.tex
+LaTeX Font Info:    Try loading font information for T1+aett on input line 3.
+
+("C:\Users\giovanadelucca\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+) [21 <./img/rgb.jpg> <./img/cielab.png>])) (novoIndex.bbl [22] [23
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.51453pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.51453pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25] (novoIndex.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16531 strings out of 493303
+ 316016 string characters out of 3135805
+ 364357 words of memory out of 3000000
+ 19540 multiletter control sequences out of 15000+200000
+ 59541 words of font info for 109 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 64i,12n,87p,1320b,706s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\giovanadelucca\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
+c\dpi600\ecti1000.pk> <C:\Users\giovanadelucca\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\public\bbm\dpi600\bbm12.pk> <C:\Users\giovanadelucca\AppData\Local\MiK
+TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk><C:/Users/giovanadelucca
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/giovanadelucca/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/giovanadelucca/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/giovanadelucca/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/giovanadelucca/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/giovanadelucca/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/giovanadelucca/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/giovanadelucca/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/giovanadelucca/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/giovanadelucca/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmu10.pfb>
+Output written on novoIndex.pdf (34 pages, 3276845 bytes).
+PDF statistics:
+ 263 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+
